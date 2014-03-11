@@ -1,0 +1,29 @@
+.sbBtn {
+	position:relative;
+	width:auto;
+	height:40px;
+	float:left;
+	text-align:center;
+	line-height:40px;
+	font-weight:bold;
+	background-color:#0E4194;
+	color:#ffffff;
+	margin-right:20px;
+	margin-top:20px;
+	padding:0 20px;
+	border-top-left-radius:20px;
+	border-bottom-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-right-radius:20px;
+}
+
+.sbBtn:hover {
+	background-color:#ae1825;
+	color:#ffffff;
+}
+
+.sbBtn--slider {
+	background-color:#000000;
+	color:#ffffff;
+	border:2px solid #ffffff;
+}
