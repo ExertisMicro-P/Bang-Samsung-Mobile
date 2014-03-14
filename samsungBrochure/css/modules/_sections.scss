@@ -29,11 +29,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1f1f1', end
 	li { 
     	padding-right: 1em; 
     	text-indent: -.7em;
+    	.bullet--margin {
+			margin-left:10px !important;
+		}
 	}
 
 	li:before {
     	content: "\2022";
-    	padding-right:10px;
+    	//padding-right:10px;
     	color: #0E4194;
 	}
 }

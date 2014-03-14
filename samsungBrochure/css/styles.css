@@ -2,7 +2,7 @@
 
 Project Name: MicroP - Sony 
 Author: Farhan Farrukh 
-Date: 2014-03-12 
+Date: 2014-03-14 
 
 */
 
@@ -597,24 +597,25 @@ ol, ul {
 .sbBtn {
   position: relative;
   width: auto;
-  height: 40px;
+  height: 34px;
   float: left;
   text-align: center;
-  line-height: 40px;
+  line-height: 34px;
   font-weight: bold;
-  background-color: #0071cb;
+  background-color: #0E4194;
   color: #ffffff;
   margin-right: 20px;
   margin-top: 20px;
   padding: 0 20px;
-  border-top-left-radius: 20px;
-  border-bottom-left-radius: 20px;
-  border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px; }
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: 0px 0px 6px 4px #d1d1d1; }
 
 .sbBtn:hover {
-  background-color: #00213b;
-  color: #0075d5; }
+  background-color: #666666;
+  color: #ffffff; }
 
 .sbBtn--slider {
   background-color: #000000;
@@ -910,9 +911,10 @@ ul.products-list {
   ul.products-list li {
     padding-right: 1em;
     text-indent: -.7em; }
+    ul.products-list li .bullet--margin {
+      margin-left: 10px !important; }
   ul.products-list li:before {
     content: "\2022";
-    padding-right: 10px;
     color: #0E4194; }
 
 /*

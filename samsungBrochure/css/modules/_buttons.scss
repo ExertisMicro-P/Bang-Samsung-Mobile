@@ -1,25 +1,26 @@
 .sbBtn {
 	position:relative;
 	width:auto;
-	height:40px;
+	height:34px;
 	float:left;
 	text-align:center;
-	line-height:40px;
+	line-height:34px;
 	font-weight:bold;
-	background-color:#0071cb;
+	background-color:#0E4194;
 	color:#ffffff;
 	margin-right:20px;
 	margin-top:20px;
 	padding:0 20px;
-	border-top-left-radius:20px;
-	border-bottom-left-radius:20px;
-	border-top-right-radius:20px;
-	border-bottom-right-radius:20px;
+	border-top-left-radius:5px;
+	border-bottom-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-right-radius:5px;
+	box-shadow: 0px 0px 6px 4px #d1d1d1;
 }
 
 .sbBtn:hover {
-	background-color:#00213b;
-	color:#0075d5;
+	background-color:#666666;
+	color:#ffffff;
 }
 
 .sbBtn--slider {
