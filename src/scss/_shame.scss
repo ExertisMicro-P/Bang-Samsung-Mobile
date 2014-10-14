@@ -1,0 +1,37 @@
+//
+// _shame.scss
+//
+// this is a dumping ground for quick and nasty styles that haven't been
+// abstracted to modules yet.
+//
+
+#mp-header {
+  margin-bottom: 15px;
+}
+
+.line-height {
+  line-height:20px;
+}
+
+.sup {
+  vertical-align: 75%;
+  line-height: 5px;
+  font-size:8px;
+} 
+
+.logo--right {
+  float:right;
+  margin-right:10px;
+  margin-bottom: 60px;
+  margin-top: -100px;
+}
+
+.logo--left {
+  margin-right:10px;
+  margin-bottom: 60px;
+  margin-top: -100px;
+}
+
+.logo--adjust {
+  margin-top:-60px !important;
+}

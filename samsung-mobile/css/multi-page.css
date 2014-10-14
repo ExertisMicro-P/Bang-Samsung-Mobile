@@ -1,14 +1,4 @@
 
-
-.nav-container
-{
-	display: none;
-}
-.content-container
-{ 
-	width: 990px;
-}
-
 .ms-wrapper 
 {
 	color: #000;
@@ -21,7 +11,7 @@
 	position: relative;
 	border: 0; /*remove for golive*/
 	/* original background: #546173; */
-	background: #ffffff !important;
+	background: #a4b8bf;
 }
 
 /* Nav */
@@ -63,7 +53,7 @@
 	overflow: hidden;
 	width: 60px;
 	margin-right: 12px;
-	background: #414a56 url(../img/sprite.png) 24px 19px no-repeat;
+	background: #414a56 url(/iComProjects/templates/ajax-microsite/img/sprite.png) 24px 19px no-repeat;
 }
 
 .ms-wrapper #ms-nav a, .ms-wrapper #ms-nav span
@@ -78,7 +68,7 @@
 
 .ms-wrapper #ms-nav li.active-link
 {
-	background: url(../img/sprite.png) 50% bottom no-repeat;
+	background: url(/iComProjects/templates/ajax-microsite/img/sprite.png) 50% bottom no-repeat;
 }
 
 .ms-wrapper #ms-nav a:hover 
@@ -166,6 +156,10 @@
 	width: 970px;
 	padding: 0 10px;
 	background: #fff;	
+}
+
+#mp-header, .h-row {
+	margin: 0;
 }
 
 h2
