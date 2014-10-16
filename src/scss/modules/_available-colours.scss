@@ -1,0 +1,77 @@
+$swatch_diameter: 16px;
+
+@mixin swatch($colour, $border_color: '') {
+  background-color: $colour;
+
+  @if $border_color != '' {
+    border-color: $border_color;
+  } @else {
+    border-color: $colour;
+  }
+}
+
+.available-colours {
+  float: none; // for some reason all <divs> are floated? this makes life difficult.
+}
+
+.available-colours__title {
+  text-transform: uppercase;
+}
+
+.available-colours__swatches {
+  margin: 20px 0;
+
+  li {
+    display: inline-block;
+    height: $swatch_diameter;
+    width: $swatch_diameter;
+    margin-right: 4px;
+    border-radius: 50%;
+    border: 1px solid;
+
+    span {
+      // hide the label from display, but not screenreaders
+      @extend .visuallyhidden;
+    }
+  }
+
+  // shared
+  .black         { @include swatch(#000) }
+  .white         { @include swatch(#fff, #aaa) }
+  .darkred       { @include swatch(#aa0201) }
+  .darkgrey      { @include swatch(#504747) }
+  .royalblue     { @include swatch(#0f5eb9) }
+  .chocolate     { @include swatch(#d16439) }
+  .ivory         { @include swatch(#e1dec4, #aaa) }
+  .grey          { @include swatch(#a7a7a7) }
+  .brown         { @include swatch(#984807) }
+  .midnightblue  { @include swatch(#0d1b83) }
+  .red           { @include swatch(#e7303e) }
+
+  // galaxy note
+  .thistle       { @include swatch(#dfb3c7) }
+
+  // galaxy collection
+  .darkslateblue { @include swatch(#2d5090) }
+  .purple        { @include swatch(#7f3f98) }
+
+  // galaxy gear
+  .green         { @include swatch(#7abc0b) }
+  .redorange     { @include swatch(#f1461c) }
+  .offyellow     { @include swatch(#d5d226) }
+  .tan           { @include swatch(#c49c8b) }
+
+  // galaxy accessories
+  .teal          { @include swatch(#0083a3) }
+  .pink          { @include swatch(#c51d70) }
+  .indianred     { @include swatch(#bf3e44) }
+  .lightpink     { @include swatch(#ffc8f4, #aaa) }
+  .turqouise     { @include swatch(#00afd0) }
+  .dodgerblue    { @include swatch(#025ee9) }
+  .yellow        { @include swatch(#ffe900) }
+  .deeppink      { @include swatch(#f82ea4) }
+  .olivegreen    { @include swatch(#5eb425) }
+  .orange        { @include swatch(#fe9800) }
+  .skyblue       { @include swatch(#7cb3ff) }
+}
+
