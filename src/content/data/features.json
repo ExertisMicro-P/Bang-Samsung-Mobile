@@ -1,0 +1,20 @@
+{
+  "features": {
+    "wifi": {
+      "text": "Wi-Fi",
+      "image": "images/logo/wifi.png"
+    },
+    "3g": {
+      "text": "3G",
+      "image": "images/logo/3g.png"
+    },
+    "4g_ready": {
+      "text": "4G ready",
+      "image": "images/logo/4gReady.png"
+    },
+    "4g_option": {
+      "text": "4G option",
+      "image": "images/logo/4gOption.png"
+    }
+  }
+}

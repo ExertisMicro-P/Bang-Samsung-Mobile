@@ -1,0 +1,13 @@
+.header {
+  position: relative;
+  width: 100%;
+  padding: 0;
+  @extend .clearfix;
+}
+
+.header__logo {
+  position: absolute;
+  top: 60px;
+  left: 60px;
+  z-index: 10;
+}

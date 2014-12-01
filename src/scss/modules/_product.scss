@@ -1,0 +1,87 @@
+// raw product - similar module to OOCSS' media object
+.product {
+  margin: 0;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: $section-background-alt;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+
+  // alternate alignment (left/right flip)
+  &:nth-child(odd) {
+    background: $section-background;
+
+    > .product__main {
+      float: right;
+      margin-right: 60px;
+      margin-left: 0;
+    }
+    .product__aside,
+    .product__features {
+      float: left;
+    }
+  }
+}
+
+.product__main {
+  float: left;
+  width: 450px;
+  margin-left: 60px;
+
+  // this shouldn't really be nested, but neccessary to override
+  // `.samsung-mobile-microsite h[X]` selector
+  .product__title {
+    margin-top: 0;
+    font-size: 34px;
+  }
+
+  // this shouldn't really be nested, but neccessary to override
+  // `.samsung-mobile-microsite h[X]` selector
+  .product__tagline {
+    font-size: 24px;
+    color: $samsung-blue;
+  }
+}
+
+.product__attrs {
+  padding: 0;
+  margin: 20px 0;
+  list-style: none;
+
+  li {
+    position: relative;
+    padding-left: 36px;
+    font-size: 14px;
+
+    &:before {
+      position: absolute;
+      left: 16px;
+      content: "\2022";
+      color: $samsung-blue;
+    }
+  }
+}
+
+.product__aside {
+  float: left;
+  width: 360px;
+  margin: 0 60px;
+  text-align: center;
+}
+
+.product__image {
+  max-width: 100%;
+  height: auto;
+}
+
+.product__features {
+  display: block;
+  float: right;
+}
+
+.product__feature {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  margin: 0 4px;
+}
