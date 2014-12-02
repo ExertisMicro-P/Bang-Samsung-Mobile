@@ -19,7 +19,7 @@
 
 
   
-    <div id="tab_3_12-2" class="product">
+    <div id="tab_3_12-2" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -71,7 +71,7 @@
 </div>
 
   
-    <div id="tab_3_10-1" class="product">
+    <div id="tab_3_10-1" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -121,7 +121,7 @@
 </div>
 
   
-    <div id="tab_4_7-0" class="product">
+    <div id="tab_4_7-0" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -167,7 +167,7 @@
 </div>
 
   
-    <div id="tab_4_8-0" class="product">
+    <div id="tab_4_8-0" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -213,7 +213,7 @@
 </div>
 
   
-    <div id="tab_4_10-1" class="product">
+    <div id="tab_4_10-1" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -259,7 +259,7 @@
 </div>
 
   
-    <div id="tab_S_8-4" class="product">
+    <div id="tab_S_8-4" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -305,7 +305,7 @@
 </div>
 
   
-    <div id="tab_S_10-5" class="product">
+    <div id="tab_S_10-5" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -358,11 +358,10 @@
 <script type="text/javascript">
 
 function initPage() {
-  // fade-in content management
-  // head.load(prefixURL + "css/fade-in.css");
-  // head.load(prefixURL + "js/fade-in.js", function() {
-  //   assignFadeIn('.fade-in');
-  // });
+  // performance optimised fade in for products as user scrolls
+  head.load(prefixURL + "js/scrolling-reveal.jquery.js", function() {
+    $('.js-scrolling-reveal').scrollingReveal();
+  });
 }
 
 </script>

@@ -12,11 +12,10 @@
 <script type="text/javascript">
 
 function initPage() {
-  // fade-in content management
-  // head.load(prefixURL + "css/fade-in.css");
-  // head.load(prefixURL + "js/fade-in.js", function() {
-  //   assignFadeIn('.fade-in');
-  // });
+  // performance optimised fade in for products as user scrolls
+  head.load(prefixURL + "js/scrolling-reveal.jquery.js", function() {
+    $('.js-scrolling-reveal').scrollingReveal();
+  });
 }
 
 </script>

@@ -19,7 +19,7 @@
 
 
   
-    <div id="s5_mini" class="product">
+    <div id="s5_mini" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -73,7 +73,7 @@
 </div>
 
   
-    <div id="alpha" class="product">
+    <div id="alpha" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -133,7 +133,7 @@
 </div>
 
   
-    <div id="s5" class="product">
+    <div id="s5" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -197,7 +197,7 @@
 </div>
 
   
-    <div id="s4" class="product">
+    <div id="s4" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -257,7 +257,7 @@
 </div>
 
   
-    <div id="s4_mini" class="product">
+    <div id="s4_mini" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -319,7 +319,7 @@
 </div>
 
   
-    <div id="s4_active" class="product">
+    <div id="s4_active" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -369,7 +369,7 @@
 </div>
 
   
-    <div id="s4_zoom" class="product">
+    <div id="s4_zoom" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -423,7 +423,7 @@
 </div>
 
   
-    <div id="mega" class="product">
+    <div id="mega" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -484,11 +484,10 @@
 <script type="text/javascript">
 
 function initPage() {
-  // fade-in content management
-  // head.load(prefixURL + "css/fade-in.css");
-  // head.load(prefixURL + "js/fade-in.js", function() {
-  //   assignFadeIn('.fade-in');
-  // });
+  // performance optimised fade in for products as user scrolls
+  head.load(prefixURL + "js/scrolling-reveal.jquery.js", function() {
+    $('.js-scrolling-reveal').scrollingReveal();
+  });
 }
 
 </script>

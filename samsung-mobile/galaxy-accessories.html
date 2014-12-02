@@ -19,7 +19,7 @@
 
 
   
-    <div id="note_4s_view_wallet_cover" class="product">
+    <div id="note_4s_view_wallet_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -65,7 +65,7 @@
 </div>
 
   
-    <div id="s5_mini_flip_cover" class="product">
+    <div id="s5_mini_flip_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -111,7 +111,7 @@
 </div>
 
   
-    <div id="s5_mini_s_view_cover" class="product">
+    <div id="s5_mini_s_view_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -157,7 +157,7 @@
 </div>
 
   
-    <div id="alpha_flip_cover" class="product">
+    <div id="alpha_flip_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -203,7 +203,7 @@
 </div>
 
   
-    <div id="alpha_view_cover" class="product">
+    <div id="alpha_view_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -249,7 +249,7 @@
 </div>
 
   
-    <div id="s5_flip_wallet" class="product">
+    <div id="s5_flip_wallet" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -309,7 +309,7 @@
 </div>
 
   
-    <div id="s5_view_cover" class="product">
+    <div id="s5_view_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -369,7 +369,7 @@
 </div>
 
   
-    <div id="s4_flip_cover" class="product">
+    <div id="s4_flip_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -415,7 +415,7 @@
 </div>
 
   
-    <div id="s4_protective_cover" class="product">
+    <div id="s4_protective_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -465,7 +465,7 @@
 </div>
 
   
-    <div id="s4_mini_flip_case" class="product">
+    <div id="s4_mini_flip_case" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -507,7 +507,7 @@
 </div>
 
   
-    <div id="s4_mini_s_view_cover" class="product">
+    <div id="s4_mini_s_view_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -549,7 +549,7 @@
 </div>
 
   
-    <div id="gear2_neo_basic_strap" class="product">
+    <div id="gear2_neo_basic_strap" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -603,7 +603,7 @@
 </div>
 
   
-    <div id="note_and_tab_12-2_book_cover" class="product">
+    <div id="note_and_tab_12-2_book_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -651,7 +651,7 @@
 </div>
 
   
-    <div id="note_10-1_book_cover" class="product">
+    <div id="note_10-1_book_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -709,7 +709,7 @@
 </div>
 
   
-    <div id="universal_stand_10_inch" class="product">
+    <div id="universal_stand_10_inch" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -747,7 +747,7 @@
 </div>
 
   
-    <div id="tab3_book_cover" class="product">
+    <div id="tab3_book_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -785,7 +785,7 @@
 </div>
 
   
-    <div id="tab4_screen_protector" class="product">
+    <div id="tab4_screen_protector" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -816,7 +816,7 @@
 </div>
 
   
-    <div id="tab" class="product">
+    <div id="tab" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -858,7 +858,7 @@
 </div>
 
   
-    <div id="tab_s_book_cover" class="product">
+    <div id="tab_s_book_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -904,7 +904,7 @@
 </div>
 
   
-    <div id="tab_s_slim_cover" class="product">
+    <div id="tab_s_slim_cover" class="product js-scrolling-reveal">
   <div class="product__main">
     <h3 class="product__title">
       
@@ -953,11 +953,10 @@
 <script type="text/javascript">
 
 function initPage() {
-  // fade-in content management
-  // head.load(prefixURL + "css/fade-in.css");
-  // head.load(prefixURL + "js/fade-in.js", function() {
-  //   assignFadeIn('.fade-in');
-  // });
+  // performance optimised fade in for products as user scrolls
+  head.load(prefixURL + "js/scrolling-reveal.jquery.js", function() {
+    $('.js-scrolling-reveal').scrollingReveal();
+  });
 }
 
 </script>
