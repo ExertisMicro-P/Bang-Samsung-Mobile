@@ -108,7 +108,7 @@ module.exports = function(grunt) {
         files: [{
           expand: true,
           cwd: 'src/js/vendor',
-          src: '**.js',
+          src: '**/*.js',
           dest: '<%= buildDir %>/js'
         }]
       }
@@ -129,7 +129,7 @@ module.exports = function(grunt) {
         files: [{
           expand: true,
           cwd: 'src/content/pages',
-          src: '**.{hbs,html}',
+          src: '**/*.{hbs,html}',
           dest: '<%= buildDir %>'
         }]
       }
@@ -179,7 +179,7 @@ module.exports = function(grunt) {
         files: [{
           expand: true,
           cwd: 'src/images/',
-          src: '**.{png,jpg,gif}',
+          src: '**/*.{png,jpg,gif}',
           dest: 'src/images/'
         }]
       }
