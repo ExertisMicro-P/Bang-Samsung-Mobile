@@ -1,0 +1,61 @@
+.product-slider {
+  position: relative;
+  float: none;
+  margin: 0;
+  background: #fff;
+  border-top: 6px solid $samsung-blue;
+  border-bottom: 6px solid $samsung-blue;
+  width: 100%;
+
+  @extend .clearfix;
+
+  .product-slider__slides {
+    padding: 0;
+    margin: 0;
+  }
+
+  // slider theme
+  .bx-wrapper {
+    float: none;
+    padding: 0;
+    margin: 0;
+
+    .bx-viewport {
+      float: none;
+      left: 0;
+      border: none;
+      background: none;
+      box-shadow: none;
+    }
+
+    .bx-loading {
+      background-image: url('/samsung-mobile/images/bx_loader.gif');
+    }
+    .bx-prev {
+      left: -50px;
+      background-image: url('/samsung-mobile/images/controls.png');
+    }
+    .bx-next {
+      right: -45px;
+      background-image: url('/samsung-mobile/images/controls.png');
+    }
+  }
+}
+
+.product-slide {
+  padding: 30px 0;
+
+  // this shouldn't really be nested, but neccessary to override
+  // `.samsung-mobile-microsite h[X]` selector
+  .product-slide__title {
+    font-size: 13px;
+    text-align: center;
+    color: $samsung-blue;
+    margin: 10px 0 0 0;
+  }
+}
+
+.product-slide__image {
+  width: auto;
+  height: 80px;
+}

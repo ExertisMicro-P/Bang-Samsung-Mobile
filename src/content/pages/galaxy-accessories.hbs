@@ -2,8 +2,21 @@
 
   {{partial 'page-lead' galaxy-accessories.lead}}
 
-  {{#each galaxy-accessories.products}}
-    {{partial 'product' this}}
+  <div class="product-slider">
+    <ul class="product-slider__slides js-product-slider">
+      {{#each galaxy-accessories.categories}}
+        <li class="product-slide">
+          <a href="#{{slugify name}}">
+            <img class="product-slide__image"src="{{image}}" alt="Thumbnail of Galaxy {{name}}"/>
+          </a>
+          <h3 class="product-slide__title">{{name}}</h3>
+        </li>
+      {{/each}}
+    </ul>
+  </div>
+
+  {{#each galaxy-accessories.categories}}
+    {{partial 'product-category' this}}
   {{/each}}
 
 </div>
@@ -15,6 +28,19 @@ function initPage() {
   // performance optimised fade in for products as user scrolls
   head.load(prefixURL + "js/scrolling-reveal.jquery.js", function() {
     $('.js-scrolling-reveal').scrollingReveal();
+  });
+
+  head.load(prefixURL + "js/jquery.bxslider.js", function () {
+    $('.js-product-slider').bxSlider({
+      infiniteLoop: false,
+      hideControlOnEnd: true,
+      pager: false,
+      minSlides: 1,
+      maxSlides: 9,
+      moveSlides: 1,
+      slideWidth: 86,
+      slideMargin: 10
+    });
   });
 }
 

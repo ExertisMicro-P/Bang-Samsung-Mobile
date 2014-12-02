@@ -1,5 +1,8 @@
 // raw product - similar module to OOCSS' media object
 .product {
+  @extend .clearfix;
+
+  float: none;
   margin: 0;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -8,7 +11,7 @@
   border-bottom: 1px solid #fff;
 
   // alternate alignment (left/right flip)
-  &:nth-child(odd) {
+  &:nth-of-type(odd) {
     background: $section-background;
 
     > .product__main {

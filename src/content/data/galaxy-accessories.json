@@ -11,430 +11,502 @@
       "alt": "Image of the Samsung Galaxy Accessories range"
     }
   },
-  "products": [
+  "categories": [
     {
-      "id": "note_4s_view_wallet_cover",
-      "title": {
-        "text": "Galaxy Note 4 S View Wallet Cover",
-        "image": null
-      },
-      "tagline": "Convenient S View Cover Functionality",
-      "attributes": [
-        "Enjoy a great look and feel with high-quality leather-like materials",
-        "Access vital phone functions without opening the cover",
-        "Store your important cards in the convenient built-in pocket",
-        "Just open the case and the screen comes on automatically"
-      ],
-      "colour_options": [
-        "white",
-        "black"
-      ],
-      "link": null,
-      "image": null
-    },
-    {
-      "id": "s5_mini_flip_cover",
-      "title": {
-        "text": "Galaxy S5 mini Flip Cover",
-        "image": null
-      },
-      "tagline": "Dimpled or Smooth Finish?",
-      "attributes": [
-        "Choose from a range of stunning colours and textures",
-        "Enjoy a high-quality look and feel with a leather-like finish",
-        "Keep your handset slim by simply replacing the back cover",
-        "Just open the cover and the screen comes on automatically"
-      ],
-      "colour_options": [
-        "darkgrey",
-        "white"
-      ],
-      "link": null,
-      "image": null
-    },
-    {
-      "id": "s5_mini_s_view_cover",
-      "title": {
-        "text": "Galaxy S5 mini S View Cover",
-        "image": null
-      },
-      "tagline": "The Window of Opportunity",
-      "attributes": [
-        "Choose from a range of great colours and textured finishes",
-        "Access vital phone functions without opening the case",
-        "Use the camera quickly with just one swipe of your finger",
-        "Just open the case and the screen comes on automatically"
-      ],
-      "colour_options": [
-        "white",
-        "black"
-      ],
-      "link": null,
-      "image": null
-    },
-    {
-      "id": "alpha_flip_cover",
-      "title": {
-        "text": "Galaxy ALPHA Flip Cover",
-        "image": null
-      },
-      "tagline": "Trendy Colour Match",
-      "attributes": [
-        "Get a trendy new look thanks to the stunning metallic colour",
-        "Enjoy a luxurious look and feel that is just like real leather",
-        "Get a secure and comfortable grip when holding your phone",
-        "Keep your phone as sleek as before thanks to the ultra-slim design"
-      ],
-      "colour_options": [
-        "white",
-        "black"
-      ],
-      "link": null,
-      "image": null
-    },
-    {
-      "id": "alpha_view_cover",
-      "title": {
-        "text": "Galaxy ALPHA S View Cover",
-        "image": null
-      },
-      "tagline": "Smart Features... Starting with the Cover",
-      "attributes": [
-        "Get a stunning new look with a metallic colour and perforated pattern",
-        "Access vital phone functions and smart features without opening the case",
-        "Quickly switch to camera mode or play music with just one easy swipe",
-        "Keep your phone as sleek as before thanks to the ultra-slim design"
-      ],
-      "colour_options": [
-        "white",
-        "black"
-      ],
-      "link": null,
-      "image": null
-    },
-    {
-      "id": "s5_flip_wallet",
-      "title": {
-        "text": "Samsung Galaxy S5 Flip Wallet",
-        "image": null
-      },
-      "tagline": "Premium leather design",
-      "attributes": [
-        "Store a card such as a credit card in the useful card pocket",
-        "Express your style with a range of colours to choose from",
-        "Get a great look with classic style and premium materials",
-        "Switch the screen on or off by opening or closing the case"
-      ],
-      "colour_options": [
-        "black",
-        "teal",
-        "white",
-        "pink",
-        "brown"
-      ],
-      "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=S5%20FLIP%20WALLETS&flPackageOnly=0&idCategory=8051",
-      "image": "images/galaxy-accessories/s5FlipWallet.png"
-    },
-    {
-      "id": "s5_view_cover",
-      "title": {
-        "text": "Samsung Galaxy S5 S View Cover",
-        "image": null
-      },
-      "tagline": "Stunning looks, perfect touches",
-      "attributes": [
-        "Get a secure grip and a great look with a choice of colours",
-        "Access vital phone functions without opening the case",
-        "Use the camera quickly with just one swipe of your finger",
-        "Make sure your Galaxy S5's water resistance is maintained"
-      ],
-      "colour_options": [
-        "black",
-        "white",
-        "indianred",
-        "teal",
-        "lightpink"
-      ],
-      "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=EF-CG900&flPackageOnly=0&idCategory=8051",
-      "image": "images/galaxy-accessories/s5sViewCover.png"
-    },
-    {
-      "id": "s4_flip_cover",
-      "title": {
-        "text": "Galaxy S4 Flip Cover",
-        "image": null
-      },
-      "tagline": "Stylish Colours",
-      "attributes": [
-        "Prevent damage to the screen by closing the cover",
-        "Chat even with the cover closed thanks to the speaker slot",
-        "Express yourself with a range of attractive colours",
-        "Keep your phone thin by simply replacing the battery cover"
-      ],
-      "colour_options": [
-        "midnightblue",
-        "orange"
-      ],
-      "link": null,
-      "image": null
-    },
-    {
-      "id": "s4_protective_cover",
-      "title": {
-        "text": "Galaxy S4 Protective cover",
-        "image": null
-      },
-      "tagline": "Better Protection",
-      "attributes": [
-        "Show your style with a specially designed case",
-        "Keep your Galaxy S4 free from scratches",
-        "Enjoy a choice of cool colour options",
-        "Maintain a chic look and feel with its slim design"
-      ],
-      "colour_options": [
-        "pink",
-        "skyblue",
-        "olivegreen"
-      ],
-      "link": null,
-      "image": null
-    },
-    {
-      "id": "s4_mini_flip_case",
-      "title": {
-        "text": "Galaxy S4 Mini Flip Case",
-        "image": null
-      },
-      "tagline": "Custom Design",
-      "attributes": [
-        "Prevent damage to the screen by closing the cover",
-        "Express yourself with a range of attractive colours",
-        "Keep your phone thin by simply replacing the battery cover",
-        "Use an official Samsung accessory for your Galaxy S4 Mini"
-      ],
-      "colour_options": [
-        "black"
-      ],
-      "link": null,
-      "image": null
-    },
-    {
-      "id": "s4_mini_s_view_cover",
-      "title": {
-        "text": "Galaxy S4 Mini S View Cover",
-        "image": null
-      },
-      "tagline": "Better Protection and Greater Convenience",
-      "attributes": [
-        "Trust in Samsung design developed specially for Galaxy S4 Mini",
-        "Answer a call with the cover closed simply by swiping it",
-        "See the time, missed calls and more with the case closed",
-        "Just open the case and the screen comes on automatically"
-      ],
-      "colour_options": [
-        "white"
-      ],
-      "link": null,
-      "image": null
-    },
-    {
-      "id": "gear2_neo_basic_strap",
-      "title": {
-        "text": "Samsung Gear 2/Neo Basic Strap",
-        "image": null
-      },
-      "tagline": "Stylish Modern design strap",
-      "attributes": [
-        "Choose from a range of attractive colour options",
-        "Stay stylish and comfortable thanks to a great look and feel",
-        "Change straps easily to match your outfit and style"
-      ],
-      "colour_options": [
-        "black",
-        "grey",
-        "orange",
-        "brown"
-      ],
-      "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=neo%20strap&flPackageOnly=0&idCategory=8040",
-      "image": "images/galaxy-accessories/GearBasicStrap.png"
-    },
-    {
-      "id": "note_and_tab_12-2_book_cover",
-      "title": {
-        "text": "Samsung Note Pro 12.2 &amp; Tab Pro 12.2 Book Cover",
-        "image": null
-      },
-      "tagline": "Slim and lightweight",
-      "attributes": [
-        "Slim and Lightweight Design",
-        "Premium Material",
-        "Wakes and Turns off Device Screen",
-        "Two Viewing Positions: Landscape or Typing Mode"
-      ],
-      "colour_options": [
-        "black",
-        "white"
-      ],
-      "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=12.2%20book%20cover&flPackageOnly=0&idCategory=4649",
-      "image": "images/galaxy-accessories/SNotePro12BookCover.png"
-    },
-    {
-      "id": "note_10-1_book_cover",
-      "title": {
-        "text": "Samsung Galaxy Note 10.1\" Book Cover Case",
-        "image": null
-      },
-      "tagline": "Simply convert it into a stand for easy viewing",
-      "attributes": [
-        "Be mobile thanks to slim and lightweight design",
-        "Convert it into a stand for easy viewing or typing",
-        "Stay stylish on the move with an elegant look"
-      ],
-      "colour_options": [
-        "black",
-        "white",
-        "brown",
-        "royalblue",
-        "darkred"
-      ],
-      "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=galaxy%20tab%203%2010.1%20book%20cover&flPackageOnly=0&idCategory=4649",
-      "image": "images/galaxy-accessories/STab310BookCover.png"
-    },
-    {
-      "id": "universal_stand_10_inch",
-      "title": {
-        "text": "Universal Stand Pouch for 10-inch Devices",
-        "image": null
-      },
-      "tagline": "Slim Design and 2 viewing positions",
-      "attributes": [
-        "Stand Pouch 10\"",
-        "2 viewing points : Landscape or Typing mode"
-      ],
-      "colour_options": [
-        "black"
-      ],
-      "link": null,
-      "image": null
-    },
-    {
-      "id": "tab3_book_cover",
-      "title": {
-        "text": "Galaxy Tab 3 Book Cover",
-        "image": null
-      },
-      "tagline": "Slim and lightweight design",
-      "attributes": [
-        "Use covers designed for the Galaxy Tab 3 in sizes 3 10.1, 8.0 & 7.0",
-        "Be mobile thanks to slim and lightweight design",
-        "Convert it into a stand for easy viewing or typing",
-        "Stay stylish on the move with an elegant look"
-      ],
-      "variants": [
+      "name": "Note 4",
+      "image": null,
+      "products": [
         {
-          "variant_name": "10.1",
+          "id": "note_4s_view_wallet_cover",
+          "title": {
+            "text": "Galaxy Note 4 S View Wallet Cover",
+            "image": null
+          },
+          "tagline": "Convenient S View Cover Functionality",
+          "attributes": [
+            "Enjoy a great look and feel with high-quality leather-like materials",
+            "Access vital phone functions without opening the cover",
+            "Store your important cards in the convenient built-in pocket",
+            "Just open the case and the screen comes on automatically"
+          ],
           "colour_options": [
             "white",
-            "darkred",
-            "brown",
             "black"
-          ]
+          ],
+          "link": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "name": "S5 mini",
+      "image": null,
+      "products": [
+        {
+          "id": "s5_mini_flip_cover",
+          "title": {
+            "text": "Galaxy S5 mini Flip Cover",
+            "image": null
+          },
+          "tagline": "Dimpled or Smooth Finish?",
+          "attributes": [
+            "Choose from a range of stunning colours and textures",
+            "Enjoy a high-quality look and feel with a leather-like finish",
+            "Keep your handset slim by simply replacing the back cover",
+            "Just open the cover and the screen comes on automatically"
+          ],
+          "colour_options": [
+            "darkgrey",
+            "white"
+          ],
+          "link": null,
+          "image": null
         },
         {
-          "variant_name": "8.0",
+          "id": "s5_mini_s_view_cover",
+          "title": {
+            "text": "Galaxy S5 mini S View Cover",
+            "image": null
+          },
+          "tagline": "The Window of Opportunity",
+          "attributes": [
+            "Choose from a range of great colours and textured finishes",
+            "Access vital phone functions without opening the case",
+            "Use the camera quickly with just one swipe of your finger",
+            "Just open the case and the screen comes on automatically"
+          ],
           "colour_options": [
             "white",
-            "darkred",
+            "black"
+          ],
+          "link": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "name": "ALPHA",
+      "image": null,
+      "products": [
+        {
+          "id": "alpha_flip_cover",
+          "title": {
+            "text": "Galaxy ALPHA Flip Cover",
+            "image": null
+          },
+          "tagline": "Trendy Colour Match",
+          "attributes": [
+            "Get a trendy new look thanks to the stunning metallic colour",
+            "Enjoy a luxurious look and feel that is just like real leather",
+            "Get a secure and comfortable grip when holding your phone",
+            "Keep your phone as sleek as before thanks to the ultra-slim design"
+          ],
+          "colour_options": [
+            "white",
+            "black"
+          ],
+          "link": null,
+          "image": null
+        },
+        {
+          "id": "alpha_view_cover",
+          "title": {
+            "text": "Galaxy ALPHA S View Cover",
+            "image": null
+          },
+          "tagline": "Smart Features... Starting with the Cover",
+          "attributes": [
+            "Get a stunning new look with a metallic colour and perforated pattern",
+            "Access vital phone functions and smart features without opening the case",
+            "Quickly switch to camera mode or play music with just one easy swipe",
+            "Keep your phone as sleek as before thanks to the ultra-slim design"
+          ],
+          "colour_options": [
+            "white",
+            "black"
+          ],
+          "link": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "name": "S5",
+      "image": "images/galaxy-series/galaxy-s5.png",
+      "products": [
+        {
+          "id": "s5_flip_wallet",
+          "title": {
+            "text": "Samsung Galaxy S5 Flip Wallet",
+            "image": null
+          },
+          "tagline": "Premium leather design",
+          "attributes": [
+            "Store a card such as a credit card in the useful card pocket",
+            "Express your style with a range of colours to choose from",
+            "Get a great look with classic style and premium materials",
+            "Switch the screen on or off by opening or closing the case"
+          ],
+          "colour_options": [
+            "black",
+            "teal",
+            "white",
+            "pink",
+            "brown"
+          ],
+          "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=S5%20FLIP%20WALLETS&flPackageOnly=0&idCategory=8051",
+          "image": "images/galaxy-accessories/s5FlipWallet.png"
+        },
+        {
+          "id": "s5_view_cover",
+          "title": {
+            "text": "Samsung Galaxy S5 S View Cover",
+            "image": null
+          },
+          "tagline": "Stunning looks, perfect touches",
+          "attributes": [
+            "Get a secure grip and a great look with a choice of colours",
+            "Access vital phone functions without opening the case",
+            "Use the camera quickly with just one swipe of your finger",
+            "Make sure your Galaxy S5's water resistance is maintained"
+          ],
+          "colour_options": [
+            "black",
+            "white",
+            "indianred",
+            "teal",
+            "lightpink"
+          ],
+          "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=EF-CG900&flPackageOnly=0&idCategory=8051",
+          "image": "images/galaxy-accessories/s5sViewCover.png"
+        }
+      ]
+    },
+    {
+      "name": "S4",
+      "image": "images/galaxy-series/galaxy-s4.png",
+      "products": [
+        {
+          "id": "s4_flip_cover",
+          "title": {
+            "text": "Galaxy S4 Flip Cover",
+            "image": null
+          },
+          "tagline": "Stylish Colours",
+          "attributes": [
+            "Prevent damage to the screen by closing the cover",
+            "Chat even with the cover closed thanks to the speaker slot",
+            "Express yourself with a range of attractive colours",
+            "Keep your phone thin by simply replacing the battery cover"
+          ],
+          "colour_options": [
+            "midnightblue",
+            "orange"
+          ],
+          "link": null,
+          "image": null
+        },
+        {
+          "id": "s4_protective_cover",
+          "title": {
+            "text": "Galaxy S4 Protective cover",
+            "image": null
+          },
+          "tagline": "Better Protection",
+          "attributes": [
+            "Show your style with a specially designed case",
+            "Keep your Galaxy S4 free from scratches",
+            "Enjoy a choice of cool colour options",
+            "Maintain a chic look and feel with its slim design"
+          ],
+          "colour_options": [
+            "pink",
+            "skyblue",
+            "olivegreen"
+          ],
+          "link": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "name": "S4 mini",
+      "image": "images/galaxy-series/galaxy-s4-mini.png",
+      "products": [
+        {
+          "id": "s4_mini_flip_case",
+          "title": {
+            "text": "Galaxy S4 Mini Flip Case",
+            "image": null
+          },
+          "tagline": "Custom Design",
+          "attributes": [
+            "Prevent damage to the screen by closing the cover",
+            "Express yourself with a range of attractive colours",
+            "Keep your phone thin by simply replacing the battery cover",
+            "Use an official Samsung accessory for your Galaxy S4 Mini"
+          ],
+          "colour_options": [
+            "black"
+          ],
+          "link": null,
+          "image": null
+        },
+        {
+          "id": "s4_mini_s_view_cover",
+          "title": {
+            "text": "Galaxy S4 Mini S View Cover",
+            "image": null
+          },
+          "tagline": "Better Protection and Greater Convenience",
+          "attributes": [
+            "Trust in Samsung design developed specially for Galaxy S4 Mini",
+            "Answer a call with the cover closed simply by swiping it",
+            "See the time, missed calls and more with the case closed",
+            "Just open the case and the screen comes on automatically"
+          ],
+          "colour_options": [
+            "white"
+          ],
+          "link": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "name": "Gear 2/Neo",
+      "image": "images/galaxy-gear/sgalaxy-gear2.png",
+      "products": [
+        {
+          "id": "gear2_neo_basic_strap",
+          "title": {
+            "text": "Samsung Gear 2/Neo Basic Strap",
+            "image": null
+          },
+          "tagline": "Stylish Modern design strap",
+          "attributes": [
+            "Choose from a range of attractive colour options",
+            "Stay stylish and comfortable thanks to a great look and feel",
+            "Change straps easily to match your outfit and style"
+          ],
+          "colour_options": [
+            "black",
+            "grey",
+            "orange",
+            "brown"
+          ],
+          "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=neo%20strap&flPackageOnly=0&idCategory=8040",
+          "image": "images/galaxy-accessories/GearBasicStrap.png"
+        }
+      ]
+    },
+    {
+      "name": "Tab 3",
+      "image": "images/galaxy-tab/galaxy-tab-pro-10-1.png",
+      "products": [
+        {
+          "id": "tab3_book_cover",
+          "title": {
+            "text": "Galaxy Tab 3 Book Cover",
+            "image": null
+          },
+          "tagline": "Slim and lightweight design",
+          "attributes": [
+            "Use covers designed for the Galaxy Tab 3 in sizes 3 10.1, 8.0 & 7.0",
+            "Be mobile thanks to slim and lightweight design",
+            "Convert it into a stand for easy viewing or typing",
+            "Stay stylish on the move with an elegant look"
+          ],
+          "variants": [
+            {
+              "variant_name": "10.1",
+              "colour_options": [
+                "white",
+                "darkred",
+                "brown",
+                "black"
+              ]
+            },
+            {
+              "variant_name": "8.0",
+              "colour_options": [
+                "white",
+                "darkred",
+                "brown",
+                "royalblue",
+                "black"
+              ]
+            },
+            {
+              "variant_name": "7.0",
+              "colour_options": [
+                "olivegreen",
+                "darkred"
+              ]
+            }
+          ],
+          "link": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "name": "Tab 4",
+      "image": null,
+      "products": [
+        {
+          "id": "tab4_screen_protector",
+          "title": {
+            "text": "Galaxy Tab 4 Screen Protector",
+            "image": null
+          },
+          "tagline": "Excellent Screen Protection for Galaxy Tab 4",
+          "attributes": [
+            "Say goodbye to scratches and scrapes",
+            "Protect the screen of your Galaxy Tab 4 from damage",
+            "Available for sizes 10.1, 8.0 & 7.0",
+            "Enjoy the same clear and colourful viewing as before"
+          ],
+          "colours": null,
+          "link": null,
+          "image": null
+        },
+        {
+          "id": "tab",
+          "title": {
+            "text": "Galaxy Tab 4 Book Cover",
+            "image": null
+          },
+          "tagline": "Experience the convenience of a slim and sleek design",
+          "attributes": [
+            "Enjoy a comfortable grip and lightweight portability",
+            "Convert the cover into a stand for easy viewing or typing",
+            "Protect the screen of your Tab 4 from bumps and scratches",
+            "Available in sizes 10.1, 8.0 & 7.0"
+          ],
+          "colour_options": [
+            "black"
+          ],
+          "link": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "name": "Tab S",
+      "image": null,
+      "products": [
+        {
+          "id": "tab_s_book_cover",
+          "title": {
+            "text": "Galaxy Tab S Book Cover",
+            "image": null
+          },
+          "tagline": "Stunning colours and premium design",
+          "attributes": [
+            "Express your style with a range of great colour options",
+            "Enjoy the softness and luxury of premium PU Leather",
+            "Use the cover as a stand for viewing, typing and more",
+            "Available in sizes in 10.5 & 8.4"
+          ],
+          "colour_options": [
+            "white",
+            "black"
+          ],
+          "link": null,
+          "image": null
+        },
+        {
+          "id": "tab_s_slim_cover",
+          "title": {
+            "text": "Galaxy Tab S 10.5\" Slim Cover",
+            "image": null
+          },
+          "tagline": "Stunning colours and design",
+          "attributes": [
+            "Give your Tab S a new look with a choice of colours",
+            "Experience the convenience of a slim and sleek design",
+            "Enjoy the softness and luxury of premium PU Leather",
+            "Keep your tablet looking great with extra protection"
+          ],
+          "colour_options": [
+            "black"
+          ],
+          "link": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "name": "Note & Tab Pro",
+      "image": "images/galaxy-notes/galaxy-note-10-1-2014.png",
+      "products": [
+        {
+          "id": "note_and_tab_12-2_book_cover",
+          "title": {
+            "text": "Samsung Note Pro 12.2 &amp; Tab Pro 12.2 Book Cover",
+            "image": null
+          },
+          "tagline": "Slim and lightweight",
+          "attributes": [
+            "Slim and Lightweight Design",
+            "Premium Material",
+            "Wakes and Turns off Device Screen",
+            "Two Viewing Positions: Landscape or Typing Mode"
+          ],
+          "colour_options": [
+            "black",
+            "white"
+          ],
+          "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=12.2%20book%20cover&flPackageOnly=0&idCategory=4649",
+          "image": "images/galaxy-accessories/SNotePro12BookCover.png"
+        },
+        {
+          "id": "note_10-1_book_cover",
+          "title": {
+            "text": "Samsung Galaxy Note 10.1\" Book Cover Case",
+            "image": null
+          },
+          "tagline": "Simply convert it into a stand for easy viewing",
+          "attributes": [
+            "Be mobile thanks to slim and lightweight design",
+            "Convert it into a stand for easy viewing or typing",
+            "Stay stylish on the move with an elegant look"
+          ],
+          "colour_options": [
+            "black",
+            "white",
             "brown",
             "royalblue",
-            "black"
-          ]
-        },
-        {
-          "variant_name": "7.0",
-          "colour_options": [
-            "olivegreen",
             "darkred"
-          ]
+          ],
+          "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=galaxy%20tab%203%2010.1%20book%20cover&flPackageOnly=0&idCategory=4649",
+          "image": "images/galaxy-accessories/STab310BookCover.png"
         }
-      ],
-      "link": null,
-      "image": null
+      ]
     },
     {
-      "id": "tab4_screen_protector",
-      "title": {
-        "text": "Galaxy Tab 4 Screen Protector",
-        "image": null
-      },
-      "tagline": "Excellent Screen Protection for Galaxy Tab 4",
-      "attributes": [
-        "Say goodbye to scratches and scrapes",
-        "Protect the screen of your Galaxy Tab 4 from damage",
-        "Available for sizes 10.1, 8.0 & 7.0",
-        "Enjoy the same clear and colourful viewing as before"
-      ],
-      "colours": null,
-      "link": null,
-      "image": null
-    },
-    {
-      "id": "tab",
-      "title": {
-        "text": "Galaxy Tab 4 Book Cover",
-        "image": null
-      },
-      "tagline": "Experience the convenience of a slim and sleek design",
-      "attributes": [
-        "Enjoy a comfortable grip and lightweight portability",
-        "Convert the cover into a stand for easy viewing or typing",
-        "Protect the screen of your Tab 4 from bumps and scratches",
-        "Available in sizes 10.1, 8.0 & 7.0"
-      ],
-      "colour_options": [
-        "black"
-      ],
-      "link": null,
-      "image": null
-    },
-    {
-      "id": "tab_s_book_cover",
-      "title": {
-        "text": "Galaxy Tab S Book Cover",
-        "image": null
-      },
-      "tagline": "Stunning colours and premium design",
-      "attributes": [
-        "Express your style with a range of great colour options",
-        "Enjoy the softness and luxury of premium PU Leather",
-        "Use the cover as a stand for viewing, typing and more",
-        "Available in sizes in 10.5 & 8.4"
-      ],
-      "colour_options": [
-        "white",
-        "black"
-      ],
-      "link": null,
-      "image": null
-    },
-    {
-      "id": "tab_s_slim_cover",
-      "title": {
-        "text": "Galaxy Tab S 10.5\" Slim Cover",
-        "image": null
-      },
-      "tagline": "Stunning colours and design",
-      "attributes": [
-        "Give your Tab S a new look with a choice of colours",
-        "Experience the convenience of a slim and sleek design",
-        "Enjoy the softness and luxury of premium PU Leather",
-        "Keep your tablet looking great with extra protection"
-      ],
-      "colour_options": [
-        "black"
-      ],
-      "link": null,
-      "image": null
+      "name": "Universal",
+      "image": null,
+      "products": [
+        {
+          "id": "universal_stand_10_inch",
+          "title": {
+            "text": "Universal Stand Pouch for 10-inch Devices",
+            "image": null
+          },
+          "tagline": "Slim Design and 2 viewing positions",
+          "attributes": [
+            "Stand Pouch 10\"",
+            "2 viewing points : Landscape or Typing mode"
+          ],
+          "colour_options": [
+            "black"
+          ],
+          "link": null,
+          "image": null
+        }
+      ]
     }
   ]
 }
