@@ -1,14 +1,5 @@
-$swatch_diameter: 16px;
-
-@mixin swatch($colour, $border_color: '') {
-  background-color: $colour;
-
-  @if $border_color != '' {
-    border: 1px solid $border_color;
-  } @else {
-    border: 1px solid $colour;
-  }
-}
+$swatch_diameter: 18px;
+$border_width: 1px;
 
 .available-colours {
   float: none; // for some reason all <divs> are floated? this makes life difficult.
@@ -24,57 +15,23 @@ $swatch_diameter: 16px;
 .available-colours__swatches {
   margin: 20px 0;
   padding: 0;
+}
 
-  li {
-    display: inline-block;
-    height: $swatch_diameter;
-    width: $swatch_diameter;
-    margin-right: 4px;
-    border-radius: 50%;
+.available-colours__swatch {
+  display: inline-block;
+  height: $swatch_diameter;
+  width: $swatch_diameter;
+  margin-right: 4px;
+  border-radius: 50%;
 
-    span {
-      // hide the label from display, but not screenreaders
-      @extend .visuallyhidden;
-    }
+  span {
+    // hide the label from display, but not screenreaders
+    @extend .visuallyhidden;
   }
 }
 
-// shared
-.available-colours__swatch--black         { @include swatch(#000) }
-.available-colours__swatch--white         { @include swatch(#fff, #aaa) }
-.available-colours__swatch--darkred       { @include swatch(#aa0201) }
-.available-colours__swatch--darkgrey      { @include swatch(#504747) }
-.available-colours__swatch--royalblue     { @include swatch(#0f5eb9) }
-.available-colours__swatch--chocolate     { @include swatch(#d16439) }
-.available-colours__swatch--ivory         { @include swatch(#e1dec4, #aaa) }
-.available-colours__swatch--grey          { @include swatch(#a7a7a7) }
-.available-colours__swatch--brown         { @include swatch(#984807) }
-.available-colours__swatch--midnightblue  { @include swatch(#0d1b83) }
-.available-colours__swatch--red           { @include swatch(#e7303e) }
-.available-colours__swatch--tan           { @include swatch(#c49c8b) }
-.available-colours__swatch--turqouise     { @include swatch(#00afd0) }
-
-// galaxy note
-.available-colours__swatch--thistle       { @include swatch(#dfb3c7) }
-
-// galaxy collection
-.available-colours__swatch--darkslateblue { @include swatch(#2d5090) }
-.available-colours__swatch--purple        { @include swatch(#7f3f98) }
-
-// galaxy gear
-.available-colours__swatch--green         { @include swatch(#7abc0b) }
-.available-colours__swatch--redorange     { @include swatch(#f1461c) }
-.available-colours__swatch--offyellow     { @include swatch(#d5d226) }
-
-// galaxy accessories
-.available-colours__swatch--teal          { @include swatch(#0083a3) }
-.available-colours__swatch--pink          { @include swatch(#c51d70) }
-.available-colours__swatch--indianred     { @include swatch(#bf3e44) }
-.available-colours__swatch--lightpink     { @include swatch(#ffc8f4, #aaa) }
-.available-colours__swatch--dodgerblue    { @include swatch(#025ee9) }
-.available-colours__swatch--yellow        { @include swatch(#ffe900) }
-.available-colours__swatch--deeppink      { @include swatch(#f82ea4) }
-.available-colours__swatch--olivegreen    { @include swatch(#5eb425) }
-.available-colours__swatch--orange        { @include swatch(#fe9800) }
-.available-colours__swatch--skyblue       { @include swatch(#7cb3ff) }
-
+.available-colours__swatch--bordered {
+  height: $swatch_diameter - (2 * $border_width);
+  width: $swatch_diameter - (2 * $border_width);
+  border: $border_width solid #aaa;
+}

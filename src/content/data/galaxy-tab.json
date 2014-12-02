@@ -25,10 +25,10 @@
         "Organise your favourite content in an easy-to-use dashboard",
         "Access files and content on your PC anywhere with RemotePC"
       ],
-      "colours": {
-        "White": "white",
-        "Black": "black"
-      },
+      "colour_options": [
+        "white",
+        "black"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=galaxy%20pro%2012.2&idManufacturer=2795&flPackageOnly=0&idCategory=4489",
       "image": "images/galaxy-tab/galaxy-tab-pro-12-2.png",
       "feature_ids": [
@@ -49,10 +49,10 @@
         "Get a sleek and stylish look with a stitched leather-like finish",
         "Take hold of super-slim and ultraportable design"
       ],
-      "colours": {
-        "White": "white",
-        "Black": "black"
-      },
+      "colour_options": [
+        "white",
+        "black"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=SM-T520&idManufacturer=2795&flPackageOnly=0&idCategory=4489",
       "image": "images/galaxy-tab/galaxy-tab-pro-10-1.png",
       "feature_ids": [
@@ -72,10 +72,10 @@
         "Give everyone in the family their own personalised user account",
         "Connect with other devices to share, play games and view photos"
       ],
-      "colours": {
-        "White": "white",
-        "Black": "black"
-      },
+      "colour_options": [
+        "white",
+        "black"
+      ],
       "link": null,
       "image": null,
       "feature_ids": [
@@ -94,10 +94,10 @@
         "Everyone in the family can have a personalised tablet experience with their own music, games, apps, photos and more",
         "Take more of your music, photos, movies and games with you using a microSD&trade; card"
       ],
-      "colours": {
-        "White": "white",
-        "Black": "black"
-      },
+      "colour_options": [
+        "white",
+        "black"
+      ],
       "link": null,
       "image": null,
       "feature_ids": [
@@ -116,10 +116,10 @@
         "A lightweight build with a fresh design adds a touch of elegance",
         "Take more of your music, photos, movies and games with you using a microSD&trade; card"
       ],
-      "colours": {
-        "White": "white",
-        "Black": "black"
-      },
+      "colour_options": [
+        "white",
+        "black"
+      ],
       "link": null,
       "image": null,
       "feature_ids": [
@@ -138,10 +138,10 @@
         "Keep your photos, videos, and personal files secure with just the swipe of your finger.",
         "Do two things at once with Multi-window, like watch a music video and look up the lyrics"
       ],
-      "colours": {
-        "White": "white",
-        "Brown": "brown"
-      },
+      "colour_options": [
+        "white",
+        "brown"
+      ],
       "link": null,
       "image": null,
       "feature_ids": [
@@ -160,10 +160,10 @@
         "Control your Galaxy S5 screen as well as making and receiving calls",
         "Enjoy slim, light and energy-efficient design with a fingerprint scanner"
       ],
-      "colours": {
-        "White": "white",
-        "Tan": "tan"
-      },
+      "colour_options": [
+        "white",
+        "tan"
+      ],
       "link": null,
       "image": null,
       "feature_ids": [

@@ -1,0 +1,111 @@
+{
+  "colours": {
+    "black": {
+      "label": "Black",
+      "hexcode": "#000"
+    },
+    "grey": {
+      "label": "Grey",
+      "hexcode": "#a7a7a7"
+    },
+    "darkgrey": {
+      "label": "Grey",
+      "hexcode": "#504747"
+    },
+    "white": {
+      "label": "White",
+      "hexcode": "#fff",
+      "bordered": true
+    },
+    "ivory": {
+      "label": "Ivory",
+      "hexcode": "#e1dec4",
+      "bordered": true
+    },
+    "tan": {
+      "label": "Tan",
+      "hexcode": "#c49c8b"
+    },
+    "brown": {
+      "label": "Brown",
+      "hexcode": "#984807"
+    },
+    "chocolate": {
+      "label": "Chocolate brown",
+      "hexcode": "#d16439"
+    },
+    "red": {
+      "label": "Red",
+      "hexcode": "#e7303e"
+    },
+    "darkred": {
+      "label": "Red",
+      "hexcode": "#aa0201"
+    },
+    "indianred": {
+      "label": "Red",
+      "hexcode": "#bf3e44"
+    },
+    "purple": {
+      "label": "Purple",
+      "hexcode": "#7f3f98"
+    },
+    "royalblue": {
+      "label": "Blue",
+      "hexcode": "#0f5eb9"
+    },
+    "midnightblue": {
+      "label": "Blue",
+      "hexcode": "#0d1b83"
+    },
+    "darkslateblue": {
+      "label": "Blue",
+      "hexcode": "#2d5090"
+    },
+    "skyblue": {
+      "label": "Blue",
+      "hexcode": "#7cb3ff"
+    },
+    "turqouise": {
+      "label": "Turqouise",
+      "hexcode": "#00afd0"
+    },
+    "teal": {
+      "label": "Teal",
+      "hexcode": "#0083a3"
+    },
+    "green": {
+      "label": "Green",
+      "hexcode": "#7abc0b"
+    },
+    "olivegreen": {
+      "label": "Green",
+      "hexcode": "#5eb425"
+    },
+    "yellow": {
+      "label": "Yellow",
+      "hexcode": "#ffe900"
+    },
+    "offyellow": {
+      "label": "Yellow",
+      "hexcode": "#d5d226"
+    },
+    "orange": {
+      "label": "Orange",
+      "hexcode": "#fe9800"
+    },
+    "redorange": {
+      "label": "Orange",
+      "hexcode": "#f1461c"
+    },
+    "pink": {
+      "label": "Pink",
+      "hexcode": "#c51d70"
+    },
+    "lightpink": {
+      "label": "Lightpink",
+      "hexcode": "#ffc8f4",
+      "bordered": true
+    }
+  }
+}

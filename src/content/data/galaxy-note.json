@@ -25,10 +25,10 @@
         "Multitask with enhanced Multi Window on a large 10\" screen",
         "Do more on the go thanks to sleek and portable design"
       ],
-      "colours": {
-        "Black": "black",
-        "White": "white"
-      },
+      "colour_options": [
+        "black",
+        "white"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=Note%2010.1%202014&idManufacturer=2795&flPackageOnly=0&idCategory=4489&mscssid=",
       "image": "images/galaxy-notes/galaxy-note-10-1-2014.png",
       "feature_ids": [
@@ -49,11 +49,11 @@
         "Charge faster and use Ultra Power Saving mode to last longer",
         "Write and draw more naturally and precisely using the latest S Pen"
       ],
-      "colours": {
-        "Black": "black",
-        "White": "white",
-        "Tan": "tan"
-      },
+      "colour_options": [
+        "black",
+        "white",
+        "tan"
+      ],
       "link": null,
       "image": "images/galaxy-notes/galaxy-note-4.png",
       "feature_ids": []

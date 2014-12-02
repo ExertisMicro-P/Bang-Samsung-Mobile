@@ -27,12 +27,12 @@
         "Typical Usage 2-3 days, Low Usage up to 6 days",
         "Bluetooth 4.0 LE"
       ],
-      "colours": {
-        "Black": "black",
-        "Grey": "darkgrey",
-        "Chocolate": "chocolate",
-        "Brown": "brown"
-      },
+      "colour_options": [
+        "black",
+        "darkgrey",
+        "chocolate",
+        "brown"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=R3800&idManufacturer=2795&flPackageOnly=0&idCategory=8040&lbCategory=OTHER%20MOBILE%20PHONE%20ACCESSORIES",
       "image": "images/galaxy-gear/sgalaxy-gear2.png",
       "feature_ids": []
@@ -51,14 +51,14 @@
         "Typical usage : 3-4 days, Low usage : Up to 5 days",
         "Bluetooth 4.0 LE"
       ],
-      "colours": {
-        "Black": "black",
-        "Grey": "darkgrey",
-        "Blue": "royalblue",
-        "Green": "green",
-        "Orange": "redorange",
-        "Red": "red"
-      },
+      "colour_options": [
+        "black",
+        "darkgrey",
+        "royalblue",
+        "green",
+        "redorange",
+        "red"
+      ],
       "link": "http://www.exertismicro-p.co.uk/products/OTHER-MOBILE-PHONE-ACCESSORIES/SAMSUNG/p2060315/SAMSUNG-Wearables-OTHER-MOBILE-PHONE-ACCESSORIES-SM-R3500ZKABTU.aspx?mscssid=",
       "image": "images/galaxy-gear/sgalaxy-gear-fit.png",
       "feature_ids": []
@@ -76,14 +76,14 @@
         "See messages on your phone automatically as they arrive",
         "Capture photos, video and audio quickly on the go"
       ],
-      "colours": {
-        "Black": "black",
-        "White": "white",
-        "Grey": "darkgrey",
-        "Yellow": "offyellow",
-        "Chocolate": "chocolate",
-        "Tan": "tan"
-      },
+      "colour_options": [
+        "black",
+        "white",
+        "darkgrey",
+        "offyellow",
+        "chocolate",
+        "tan"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=galaxy%20gear&idManufacturer=2795&flPackageOnly=0&idCategory=8057",
       "image": "images/galaxy-gear/galaxy-gear.png",
       "feature_ids": []

@@ -18,10 +18,10 @@
       {{/each}}
     </ul>
 
-    {{#if colours}}
+    {{#if colour_options}}
       {{partial 'available-colours' this}}
     {{else}}
-      {{!-- if we don't have 'colours' then check for 'variants' property --}}
+      {{!-- if we don't have 'colour_options' then check for 'variants' property --}}
       {{#if variants}}
         {{#each variants}}
           {{partial 'available-colours' this}}
@@ -49,9 +49,9 @@
 
     {{#if feature_ids}}
       <div class="product__features">
-        {{#features feature_ids features}}
+        {{#lookup feature_ids features}}
           <img class="product__feature" src="{{image}}" alt="{{text}}"/>
-        {{/features}}
+        {{/lookup}}
       </div>
     {{/if}}
 

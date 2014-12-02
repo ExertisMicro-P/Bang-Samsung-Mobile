@@ -25,10 +25,10 @@
         "Store your important cards in the convenient built-in pocket",
         "Just open the case and the screen comes on automatically"
       ],
-      "colours": {
-        "White": "white",
-        "Black": "black"
-      },
+      "colour_options": [
+        "white",
+        "black"
+      ],
       "link": null,
       "image": null
     },
@@ -45,10 +45,10 @@
         "Keep your handset slim by simply replacing the back cover",
         "Just open the cover and the screen comes on automatically"
       ],
-      "colours": {
-        "Grey": "darkgrey",
-        "White": "white"
-      },
+      "colour_options": [
+        "darkgrey",
+        "white"
+      ],
       "link": null,
       "image": null
     },
@@ -65,10 +65,10 @@
         "Use the camera quickly with just one swipe of your finger",
         "Just open the case and the screen comes on automatically"
       ],
-      "colours": {
-        "White": "white",
-        "Black": "black"
-      },
+      "colour_options": [
+        "white",
+        "black"
+      ],
       "link": null,
       "image": null
     },
@@ -85,10 +85,10 @@
         "Get a secure and comfortable grip when holding your phone",
         "Keep your phone as sleek as before thanks to the ultra-slim design"
       ],
-      "colours": {
-        "White": "white",
-        "Black": "black"
-      },
+      "colour_options": [
+        "white",
+        "black"
+      ],
       "link": null,
       "image": null
     },
@@ -105,10 +105,10 @@
         "Quickly switch to camera mode or play music with just one easy swipe",
         "Keep your phone as sleek as before thanks to the ultra-slim design"
       ],
-      "colours": {
-        "White": "white",
-        "Black": "black"
-      },
+      "colour_options": [
+        "white",
+        "black"
+      ],
       "link": null,
       "image": null
     },
@@ -125,13 +125,13 @@
         "Get a great look with classic style and premium materials",
         "Switch the screen on or off by opening or closing the case"
       ],
-      "colours": {
-        "Black": "black",
-        "Teal": "teal",
-        "White": "white",
-        "Pink": "pink",
-        "Brown": "brown"
-      },
+      "colour_options": [
+        "black",
+        "teal",
+        "white",
+        "pink",
+        "brown"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=S5%20FLIP%20WALLETS&flPackageOnly=0&idCategory=8051",
       "image": "images/galaxy-accessories/s5FlipWallet.png"
     },
@@ -148,13 +148,13 @@
         "Use the camera quickly with just one swipe of your finger",
         "Make sure your Galaxy S5's water resistance is maintained"
       ],
-      "colours": {
-        "Black": "black",
-        "White": "white",
-        "Red": "indianred",
-        "Teal": "teal",
-        "Pink": "lightpink"
-      },
+      "colour_options": [
+        "black",
+        "white",
+        "indianred",
+        "teal",
+        "lightpink"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=EF-CG900&flPackageOnly=0&idCategory=8051",
       "image": "images/galaxy-accessories/s5sViewCover.png"
     },
@@ -171,10 +171,10 @@
         "Express yourself with a range of attractive colours",
         "Keep your phone thin by simply replacing the battery cover"
       ],
-      "colours": {
-        "Blue": "midnightblue",
-        "Orange": "orange"
-      },
+      "colour_options": [
+        "midnightblue",
+        "orange"
+      ],
       "link": null,
       "image": null
     },
@@ -191,11 +191,11 @@
         "Enjoy a choice of cool colour options",
         "Maintain a chic look and feel with its slim design"
       ],
-      "colours": {
-        "Pink": "pink",
-        "Blue": "skyblue",
-        "Green": "olivegreen"
-      },
+      "colour_options": [
+        "pink",
+        "skyblue",
+        "olivegreen"
+      ],
       "link": null,
       "image": null
     },
@@ -212,9 +212,9 @@
         "Keep your phone thin by simply replacing the battery cover",
         "Use an official Samsung accessory for your Galaxy S4 Mini"
       ],
-      "colours": {
-        "Black": "black"
-      },
+      "colour_options": [
+        "black"
+      ],
       "link": null,
       "image": null
     },
@@ -231,9 +231,9 @@
         "See the time, missed calls and more with the case closed",
         "Just open the case and the screen comes on automatically"
       ],
-      "colours": {
-        "White": "white"
-      },
+      "colour_options": [
+        "white"
+      ],
       "link": null,
       "image": null
     },
@@ -249,12 +249,12 @@
         "Stay stylish and comfortable thanks to a great look and feel",
         "Change straps easily to match your outfit and style"
       ],
-      "colours": {
-        "Black": "black",
-        "Grey": "grey",
-        "Orange": "orange",
-        "Brown": "brown"
-      },
+      "colour_options": [
+        "black",
+        "grey",
+        "orange",
+        "brown"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=neo%20strap&flPackageOnly=0&idCategory=8040",
       "image": "images/galaxy-accessories/GearBasicStrap.png"
     },
@@ -271,10 +271,10 @@
         "Wakes and Turns off Device Screen",
         "Two Viewing Positions: Landscape or Typing Mode"
       ],
-      "colours": {
-        "Black": "black",
-        "White": "white"
-      },
+      "colour_options": [
+        "black",
+        "white"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=12.2%20book%20cover&flPackageOnly=0&idCategory=4649",
       "image": "images/galaxy-accessories/SNotePro12BookCover.png"
     },
@@ -290,13 +290,13 @@
         "Convert it into a stand for easy viewing or typing",
         "Stay stylish on the move with an elegant look"
       ],
-      "colours": {
-        "Black": "black",
-        "White": "white",
-        "Brown": "brown",
-        "Blue": "royalblue",
-        "Red": "darkred"
-      },
+      "colour_options": [
+        "black",
+        "white",
+        "brown",
+        "royalblue",
+        "darkred"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=galaxy%20tab%203%2010.1%20book%20cover&flPackageOnly=0&idCategory=4649",
       "image": "images/galaxy-accessories/STab310BookCover.png"
     },
@@ -311,9 +311,9 @@
         "Stand Pouch 10\"",
         "2 viewing points : Landscape or Typing mode"
       ],
-      "colours": {
-        "Black": "black"
-      },
+      "colour_options": [
+        "black"
+      ],
       "link": null,
       "image": null
     },
@@ -333,29 +333,29 @@
       "variants": [
         {
           "variant_name": "10.1",
-          "colours": {
-            "White": "white",
-            "Red": "darkred",
-            "Brown": "brown",
-            "Black": "black"
-          }
+          "colour_options": [
+            "white",
+            "darkred",
+            "brown",
+            "black"
+          ]
         },
         {
           "variant_name": "8.0",
-          "colours": {
-            "White": "white",
-            "Red": "darkred",
-            "Brown": "brown",
-            "Blue": "royalblue",
-            "Black": "black"
-          }
+          "colour_options": [
+            "white",
+            "darkred",
+            "brown",
+            "royalblue",
+            "black"
+          ]
         },
         {
           "variant_name": "7.0",
-          "colours": {
-            "Green": "olivegreen",
-            "Red": "darkred"
-          }
+          "colour_options": [
+            "olivegreen",
+            "darkred"
+          ]
         }
       ],
       "link": null,
@@ -391,9 +391,9 @@
         "Protect the screen of your Tab 4 from bumps and scratches",
         "Available in sizes 10.1, 8.0 & 7.0"
       ],
-      "colours": {
-        "Black": "black"
-      },
+      "colour_options": [
+        "black"
+      ],
       "link": null,
       "image": null
     },
@@ -410,10 +410,10 @@
         "Use the cover as a stand for viewing, typing and more",
         "Available in sizes in 10.5 & 8.4"
       ],
-      "colours": {
-        "White": "white",
-        "Black": "black"
-      },
+      "colour_options": [
+        "white",
+        "black"
+      ],
       "link": null,
       "image": null
     },
@@ -430,9 +430,9 @@
         "Enjoy the softness and luxury of premium PU Leather",
         "Keep your tablet looking great with extra protection"
       ],
-      "colours": {
-        "Black": "black"
-      },
+      "colour_options": [
+        "black"
+      ],
       "link": null,
       "image": null
     }

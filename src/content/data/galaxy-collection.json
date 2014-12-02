@@ -25,12 +25,12 @@
         "Make the most of your battery with Ultra Power Saving Mode",
         "Experience stunning viewing on a 4.5-inch HD Super AMOLED screen"
       ],
-      "colours": {
-        "White": "white",
-        "Ivory": "ivory",
-        "Turqouise": "turqouise",
-        "Black": "black"
-      },
+      "colour_options": [
+        "white",
+        "ivory",
+        "turqouise",
+        "black"
+      ],
       "link": null,
       "image": "",
       "feature_ids": [
@@ -50,13 +50,13 @@
         "Protect your privacy with fingerprint security and hide your personal information so that only you can access it, with a simple swipe of your finger.",
         "Make the most of your battery with Ultra Power Saving Mode"
       ],
-      "colours": {
-        "Black": "black",
-        "Turqouise": "turqouise",
-        "Ivory": "ivory",
-        "Grey": "grey",
-        "White": "white"
-      },
+      "colour_options": [
+        "black",
+        "turqouise",
+        "ivory",
+        "grey",
+        "white"
+      ],
       "link": "",
       "image": "",
       "feature_ids": [
@@ -76,12 +76,12 @@
         "Finger Scanner allowing fingerprint for security and access",
         "S Health and Heart Rate monitor"
       ],
-      "colours": {
-        "Black": "black",
-        "White": "white",
-        "Ivory": "ivory",
-        "Blue": "Royal blue"
-      },
+      "colour_options": [
+        "black",
+        "white",
+        "ivory",
+        "royalblue"
+      ],
       "link": "http://www.exertismicro-p.co.uk/products/ANDROID-OS-MOBILE-PHONE/SAMSUNG/p2044198/SAMSUNG-Galaxy-S-Series-Smartphones-ANDROID-OS-MOBILE-PHONE-SM-G900FZBABTU.aspx?mscssid=",
       "image": "images/galaxy-series/galaxy-s5.png",
       "feature_ids": [
@@ -105,12 +105,12 @@
       "footnotes": [
         "* Article published November 2013"
       ],
-      "colours": {
-        "Black": "black",
-        "White": "white",
-        "Red": "darkred",
-        "Blue": "midnightblue"
-      },
+      "colour_options": [
+        "black",
+        "white",
+        "darkred",
+        "midnightblue"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=I9505&idManufacturer=2795&flPackageOnly=0&idCategory=8057",
       "image": "images/galaxy-series/galaxy-s4.png",
       "feature_ids": [
@@ -132,12 +132,12 @@
         "Ultra-fast processor",
         "8MP rear and 1.9MP front camera"
       ],
-      "colours": {
-        "Black": "black",
-        "White": "white",
-        "Blue": "darkslateblue",
-        "Purple": "purple"
-      },
+      "colour_options": [
+        "black",
+        "white",
+        "darkslateblue",
+        "purple"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=Galaxy%20S4%20mini&idManufacturer=2795&flPackageOnly=0&idCategory=8057&lbCategory=ANDROID%20OS%20MOBILE%20PHONE",
       "image": "images/galaxy-series/galaxy-s4-mini.png",
       "feature_ids": [
@@ -159,9 +159,9 @@
         "Use a range of great smart services",
         "Enjoy powerful Quad Core performance"
       ],
-      "colours": {
-        "Black": "black"
-      },
+      "colour_options": [
+        "black"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=Galaxy%20S4%20Active&idManufacturer=2795&flPackageOnly=0&idCategory=8057&lbCategory=ANDROID%20OS%20MOBILE%20PHONE",
       "image": "images/galaxy-series/galaxy-s4-active.png",
       "feature_ids": [
@@ -183,10 +183,10 @@
         "Get closer to the action using 10x optical zoom",
         "16MP BSI CMOS sensor for richer, brighter images in low light"
       ],
-      "colours": {
-        "Black": "black",
-        "White": "white"
-      },
+      "colour_options": [
+        "black",
+        "white"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=Galaxy%20S4%20Zoom&idManufacturer=2795&flPackageOnly=0&idCategory=8057&lbCategory=ANDROID%20OS%20MOBILE%20PHONE",
       "image": "images/galaxy-series/galaxy-s4-zoom.png",
       "feature_ids": [
@@ -208,10 +208,10 @@
         "Use a range of fun, smart and convenient services",
         "Connect, share and socialise with complete ease"
       ],
-      "colours": {
-        "Black": "black",
-        "White": "white"
-      },
+      "colour_options": [
+        "black",
+        "white"
+      ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=mega&idManufacturer=2795&flPackageOnly=0&idCategory=8057",
       "image": "images/galaxy-series/galaxy-mega.png",
       "feature_ids": [
