@@ -25,6 +25,13 @@
         </ul>
       </div>
     {{/if}}
+    {{#if footnotes}}
+      <ul class="product__footnotes">
+        {{#each footnotes}}
+          <li>{{{this}}}</li>
+        {{/each}}
+      </ul>
+    {{/if}}
     {{#if link}}
       <a class="samsung-button" href="{{link}}">Find out more</a>
     {{/if}}
