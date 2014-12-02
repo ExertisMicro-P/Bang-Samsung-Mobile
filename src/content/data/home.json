@@ -3,6 +3,7 @@
     {
       "title": "Discover more with Samsung's mobile devices",
       "body": "<p>Samsung's selection of devices lets you see more and do more, with something for everyone. From the latest smartphone and tablets to Galaxy Gear, with Samsung you can share your experiences and stay connected with your family and friends wherever you are.</p>",
+      "internal_link": null,
       "image": {
         "src": "images/slider/slide-1.png",
         "alt": "Image of Samsung's mobile devices"
@@ -11,6 +12,7 @@
     {
       "title": "Meet the Samsung Galaxy collection",
       "body": "<p>Introducing the Samsung Galaxy Collection. The power and style of the Galaxy S4, designed around you.</p>",
+      "internal_link": "galaxy-collection",
       "image": {
         "src": "images/slider/slide-2.png",
         "alt": "Image of the Samsung Galaxy collection"
@@ -19,6 +21,7 @@
     {
       "title": "Experience more with a Samsung Galaxy Note",
       "body": null,
+      "internal_link": "galaxy-note",
       "image": {
         "src": "images/slider/slide-3.png",
         "alt": "Image of the Samsung Galaxy Note"
@@ -27,6 +30,7 @@
     {
       "title": "The revolutionary Galaxy Gear",
       "body": "<p>Connects seamlessly with your Samsung smartphone to make life easier on the go.</p>",
+      "internal_link": "galaxy-gear",
       "image": {
         "src": "images/slider/slide-4.png",
         "alt": "Image of the Samsung Galaxy Gear Watch"
@@ -35,6 +39,7 @@
     {
       "title": "Galaxy Tab entertainment for everyone",
       "body": null,
+      "internal_link": "galaxy-tab",
       "image": {
         "src": "images/slider/slide-5.png",
         "alt": "Image of the Samsung Galaxy Tab"

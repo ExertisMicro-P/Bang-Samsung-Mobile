@@ -7,8 +7,9 @@
           <div class="promo-slide__details">
             <h2 class="promo-slide__title">{{title}}</h2>
             <div class="promo-slide__body">{{{body}}}</div>
-            {{!-- There's no call to action or link on the slider... is this right? --}}
-            {{!-- <a class="samsung-button" data-target-content="{{internal_link}}" href="#">Find out more</a> --}}
+            {{#if internal_link}}
+              <a class="samsung-button" data-target-content="{{internal_link}}" href="#">Find out more</a>
+            {{/if}}
           </div>
           <div class="promo-slide__image">
             <img src="{{image.src}}" alt="{{image.alt}}" />
