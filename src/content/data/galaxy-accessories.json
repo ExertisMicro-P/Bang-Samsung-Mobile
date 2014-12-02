@@ -30,8 +30,7 @@
         "Black": "black"
       },
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "s5_mini_flip_cover",
@@ -51,8 +50,7 @@
         "White": "white"
       },
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "s5_mini_s_view_cover",
@@ -72,8 +70,7 @@
         "Black": "black"
       },
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "alpha_flip_cover",
@@ -93,8 +90,7 @@
         "Black": "black"
       },
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "alpha_view_cover",
@@ -114,8 +110,7 @@
         "Black": "black"
       },
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "s5_flip_wallet",
@@ -138,8 +133,7 @@
         "Brown": "brown"
       },
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=S5%20FLIP%20WALLETS&flPackageOnly=0&idCategory=8051",
-      "image": "images/galaxy-accessories/s5FlipWallet.png",
-      "feature_ids": []
+      "image": "images/galaxy-accessories/s5FlipWallet.png"
     },
     {
       "id": "s5_view_cover",
@@ -162,8 +156,7 @@
         "Pink": "lightpink"
       },
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=EF-CG900&flPackageOnly=0&idCategory=8051",
-      "image": "images/galaxy-accessories/s5sViewCover.png",
-      "feature_ids": []
+      "image": "images/galaxy-accessories/s5sViewCover.png"
     },
     {
       "id": "s4_flip_cover",
@@ -183,8 +176,7 @@
         "Orange": "orange"
       },
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "s4_protective_cover",
@@ -205,8 +197,7 @@
         "Green": "olivegreen"
       },
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "s4_mini_flip_case",
@@ -225,8 +216,7 @@
         "Black": "black"
       },
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "s4_mini_s_view_cover",
@@ -245,8 +235,7 @@
         "White": "white"
       },
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "gear2_neo_basic_strap",
@@ -267,8 +256,7 @@
         "Brown": "brown"
       },
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=neo%20strap&flPackageOnly=0&idCategory=8040",
-      "image": "images/galaxy-accessories/GearBasicStrap.png",
-      "feature_ids": []
+      "image": "images/galaxy-accessories/GearBasicStrap.png"
     },
     {
       "id": "note_and_tab_12-2_book_cover",
@@ -288,8 +276,7 @@
         "White": "white"
       },
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=12.2%20book%20cover&flPackageOnly=0&idCategory=4649",
-      "image": "images/galaxy-accessories/SNotePro12BookCover.png",
-      "feature_ids": []
+      "image": "images/galaxy-accessories/SNotePro12BookCover.png"
     },
     {
       "id": "note_10-1_book_cover",
@@ -311,8 +298,7 @@
         "Red": "darkred"
       },
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=galaxy%20tab%203%2010.1%20book%20cover&flPackageOnly=0&idCategory=4649",
-      "image": "images/galaxy-accessories/STab310BookCover.png",
-      "feature_ids": []
+      "image": "images/galaxy-accessories/STab310BookCover.png"
     },
     {
       "id": "universal_stand_10_inch",
@@ -329,8 +315,7 @@
         "Black": "black"
       },
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "tab3_book_cover",
@@ -345,12 +330,36 @@
         "Convert it into a stand for easy viewing or typing",
         "Stay stylish on the move with an elegant look"
       ],
-      "colours": {
-
-      },
+      "variants": [
+        {
+          "variant_name": "10.1",
+          "colours": {
+            "White": "white",
+            "Red": "darkred",
+            "Brown": "brown",
+            "Black": "black"
+          }
+        },
+        {
+          "variant_name": "8.0",
+          "colours": {
+            "White": "white",
+            "Red": "darkred",
+            "Brown": "brown",
+            "Blue": "royalblue",
+            "Black": "black"
+          }
+        },
+        {
+          "variant_name": "7.0",
+          "colours": {
+            "Green": "olivegreen",
+            "Red": "darkred"
+          }
+        }
+      ],
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "tab4_screen_protector",
@@ -367,8 +376,7 @@
       ],
       "colours": null,
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "tab",
@@ -387,8 +395,7 @@
         "Black": "black"
       },
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "tab_s_book_cover",
@@ -408,8 +415,7 @@
         "Black": "black"
       },
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     },
     {
       "id": "tab_s_slim_cover",
@@ -428,8 +434,7 @@
         "Black": "black"
       },
       "link": null,
-      "image": null,
-      "feature_ids": []
+      "image": null
     }
   ]
 }
