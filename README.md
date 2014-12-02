@@ -5,17 +5,8 @@ This project is based on the [Bang-Conect](https://github.com/ExertisMicro-P/Ban
 Bang's test site: [http://samsung-mobile.microp.bang-on.net/?project=samsung-mobile](http://samsung-mobile.microp.bang-on.net/?project=samsung-mobile)
 
 ## TODO
-* Move inline styling into SCSS modules.
-* Move styles from [_shame.scss](./src/scss/_shame.scss) to abstracted modules.
-* Make better use of [assemble](https://github.com/assemble/assemble) templating to DRY up the markup.
-* Move uppercasing out of markup and into CSS everywhere except acronyms.
-* Remove hardcoded entities from markup, e.g. `®` should be `&reg;`.
-* Remove classes like `.block`, `.line-height` & `.sup` in favour of BEM elements.
-* Add `alt` attribute for all images.
-* Reduce usage of `grid_*` classes, they should be used to top level layout only.
-* Remove any mention of `grid_*` or `container_*` classes from other CSS files.
-* Scope `_reset.scss` styles within a microsite specific container class.
-* Use semantic `<hX>` tags where appropriate.
+* Standardise the naming of images
+* Clear out unused images
 
 ## Getting started
 
