@@ -7,7 +7,7 @@
       {{#each galaxy-accessories.categories}}
         <li class="product-slide">
           <a href="#{{slugify name}}">
-            <img class="product-slide__image"src="{{image}}" alt="Thumbnail of Galaxy {{name}}"/>
+            <img class="product-slide__image" src="{{image}}" alt="Thumbnail of Galaxy {{name}}"/>
           </a>
           <h3 class="product-slide__title">{{name}}</h3>
         </li>
@@ -15,9 +15,13 @@
     </ul>
   </div>
 
-  {{#each galaxy-accessories.categories}}
-    {{partial 'product-category' this}}
-  {{/each}}
+  {{!-- use shorthand #each loop, as we can't nest #each --}}
+  {{#galaxy-accessories.categories}}  
+    <span id="{{slugify name}}"></span>
+    {{#each products}}
+      {{partial 'product' this}}
+    {{/each}}
+  {{/galaxy-accessories.categories}}
 
 </div>
 
