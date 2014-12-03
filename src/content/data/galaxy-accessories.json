@@ -7,7 +7,7 @@
     "tagline": "Premium accessories to match your Samsung handset, tablet or smartwatch.",
     "body": null,
     "image": {
-      "src": "images/galaxy-accessories/accessories.png",
+      "src": "images/galaxy-accessories/accessories-range.png",
       "alt": "Image of the Samsung Galaxy Accessories range"
     }
   },
@@ -132,7 +132,7 @@
     },
     {
       "name": "S5",
-      "image": "images/galaxy-series/galaxy-s5.png",
+      "image": "images/galaxy-collection/galaxy-s5.png",
       "products": [
         {
           "id": "s5_flip_wallet",
@@ -155,7 +155,7 @@
             "brown"
           ],
           "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=S5%20FLIP%20WALLETS&flPackageOnly=0&idCategory=8051",
-          "image": "images/galaxy-accessories/s5FlipWallet.png"
+          "image": "images/galaxy-accessories/s5-flip-wallet.png"
         },
         {
           "id": "s5_view_cover",
@@ -178,13 +178,13 @@
             "lightpink"
           ],
           "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=EF-CG900&flPackageOnly=0&idCategory=8051",
-          "image": "images/galaxy-accessories/s5sViewCover.png"
+          "image": "images/galaxy-accessories/s5-s-view-cover.png"
         }
       ]
     },
     {
       "name": "S4",
-      "image": "images/galaxy-series/galaxy-s4.png",
+      "image": "images/galaxy-collection/galaxy-s4.png",
       "products": [
         {
           "id": "s4_flip_cover",
@@ -231,7 +231,7 @@
     },
     {
       "name": "S4 mini",
-      "image": "images/galaxy-series/galaxy-s4-mini.png",
+      "image": "images/galaxy-collection/galaxy-s4-mini.png",
       "products": [
         {
           "id": "s4_mini_flip_case",
@@ -275,7 +275,7 @@
     },
     {
       "name": "Gear 2/Neo",
-      "image": "images/galaxy-gear/sgalaxy-gear2.png",
+      "image": "images/galaxy-gear/galaxy-gear-2.png",
       "products": [
         {
           "id": "gear2_neo_basic_strap",
@@ -296,7 +296,7 @@
             "brown"
           ],
           "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=neo%20strap&flPackageOnly=0&idCategory=8040",
-          "image": "images/galaxy-accessories/GearBasicStrap.png"
+          "image": "images/galaxy-accessories/gear-basic-strap.png"
         }
       ]
     },
@@ -439,7 +439,7 @@
     },
     {
       "name": "Note & Tab Pro",
-      "image": "images/galaxy-notes/galaxy-note-10-1-2014.png",
+      "image": "images/galaxy-note/galaxy-note-10-1-2014.png",
       "products": [
         {
           "id": "note_and_tab_12-2_book_cover",
@@ -459,7 +459,7 @@
             "white"
           ],
           "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=12.2%20book%20cover&flPackageOnly=0&idCategory=4649",
-          "image": "images/galaxy-accessories/SNotePro12BookCover.png"
+          "image": "images/galaxy-accessories/note-and-tab-12-book-cover.png"
         },
         {
           "id": "note_10-1_book_cover",
@@ -481,7 +481,7 @@
             "darkred"
           ],
           "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=galaxy%20tab%203%2010.1%20book%20cover&flPackageOnly=0&idCategory=4649",
-          "image": "images/galaxy-accessories/STab310BookCover.png"
+          "image": "images/galaxy-accessories/note-10-book-cover.png"
         }
       ]
     },

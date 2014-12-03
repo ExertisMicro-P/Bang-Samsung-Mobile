@@ -2,12 +2,12 @@
   "lead": {
     "title": {
       "text": "Samsung Galaxy Note",
-      "image": "images/galaxy-notes/note-logo.png"
+      "image": "images/titles/galaxy-note-logo.png"
     },
     "tagline": "Experience more with a Samsung Galaxy Note",
     "body": null,
     "image": {
-      "src": "images/galaxy-notes/notes-top-image.png",
+      "src": "images/galaxy-note/galaxy-note-range.png",
       "alt": "Image of the Samsung Galaxy Note range"
     }
   },
@@ -16,7 +16,7 @@
       "id": "note_10-1",
       "title": {
         "text": "Samsung Galaxy Note 10.1 2014 Edition",
-        "image": "images/galaxy-notes/galaxy-note-10-1-2014-logo.png"
+        "image": "images/titles/galaxy-note-10-1-2014-logo.png"
       },
       "tagline": "The pen is mightier than the finger",
       "attributes": [
@@ -30,7 +30,7 @@
         "white"
       ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=Note%2010.1%202014&idManufacturer=2795&flPackageOnly=0&idCategory=4489&mscssid=",
-      "image": "images/galaxy-notes/galaxy-note-10-1-2014.png",
+      "image": "images/galaxy-note/galaxy-note-10-1-2014.png",
       "feature_ids": [
         "wifi",
         "4g_option"
@@ -55,7 +55,7 @@
         "tan"
       ],
       "link": null,
-      "image": "images/galaxy-notes/galaxy-note-4.png",
+      "image": "images/galaxy-note/galaxy-note-4.png",
       "feature_ids": []
     }
   ]

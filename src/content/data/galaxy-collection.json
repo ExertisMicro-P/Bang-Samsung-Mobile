@@ -2,12 +2,12 @@
   "lead": {
     "title": {
       "text": "Samsung Galaxy Collection",
-      "image": "images/galaxy-series/galaxy-collection-logo.png"
+      "image": "images/titles/galaxy-collection-logo.png"
     },
     "tagline": "Introducing the Samsung Galaxy Collection",
     "body": "<h4>A smartphone for whoever you are</h4>",
     "image": {
-      "src": "images/galaxy-series/top-imageu.png",
+      "src": "images/galaxy-collection/galaxy-collection-range.png",
       "alt": "Image of the Samsung Galaxy Collection"
     }
   },
@@ -16,7 +16,7 @@
       "id": "s5_mini",
       "title": {
         "text": "Samsung Galaxy S5 Mini",
-        "image": ""
+        "image": null
       },
       "tagline": "Compact Design",
       "attributes": [
@@ -40,7 +40,7 @@
       "id": "alpha",
       "title": {
         "text": "Samsung Galaxy Alpha",
-        "image": ""
+        "image": null
       },
       "tagline": "Beautifully designed",
       "attributes": [
@@ -66,7 +66,7 @@
       "id": "s5",
       "title": {
         "text": "Samsung Galaxy S5",
-        "image": "images/galaxy-series/galaxy-s5-logo.png"
+        "image": "images/titles/galaxy-s5-logo.png"
       },
       "tagline": "Capturing lifetime moments",
       "attributes": [
@@ -83,7 +83,7 @@
         "royalblue"
       ],
       "link": "http://www.exertismicro-p.co.uk/products/ANDROID-OS-MOBILE-PHONE/SAMSUNG/p2044198/SAMSUNG-Galaxy-S-Series-Smartphones-ANDROID-OS-MOBILE-PHONE-SM-G900FZBABTU.aspx?mscssid=",
-      "image": "images/galaxy-series/galaxy-s5.png",
+      "image": "images/galaxy-collection/galaxy-s5.png",
       "feature_ids": [
         "wifi",
         "3g",
@@ -94,7 +94,7 @@
       "id": "s4",
       "title": {
         "text": "Samsung Galaxy S4",
-        "image": "images/galaxy-series/galaxy-s4-logo.png"
+        "image": "images/titles/galaxy-s4-logo.png"
       },
       "tagline": "Life companion",
       "attributes": [
@@ -112,7 +112,7 @@
         "midnightblue"
       ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=I9505&idManufacturer=2795&flPackageOnly=0&idCategory=8057",
-      "image": "images/galaxy-series/galaxy-s4.png",
+      "image": "images/galaxy-collection/galaxy-s4.png",
       "feature_ids": [
         "wifi",
         "3g",
@@ -123,7 +123,7 @@
       "id": "s4_mini",
       "title": {
         "text": "Samsung Galaxy S4 Mini",
-        "image": "images/galaxy-series/galaxy-s4-mini-logo.png"
+        "image": "images/titles/galaxy-s4-mini-logo.png"
       },
       "tagline": "Compact and stylish, Big performance",
       "attributes": [
@@ -139,7 +139,7 @@
         "purple"
       ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=Galaxy%20S4%20mini&idManufacturer=2795&flPackageOnly=0&idCategory=8057&lbCategory=ANDROID%20OS%20MOBILE%20PHONE",
-      "image": "images/galaxy-series/galaxy-s4-mini.png",
+      "image": "images/galaxy-collection/galaxy-s4-mini.png",
       "feature_ids": [
         "wifi",
         "3g",
@@ -150,7 +150,7 @@
       "id": "s4_active",
       "title": {
         "text": "Samsung Galaxy S4 Active",
-        "image": "images/galaxy-series/galaxy-s4-active-logo.png"
+        "image": "images/titles/galaxy-s4-active-logo.png"
       },
       "tagline": "Freedom to live outside the boundaries",
       "attributes": [
@@ -163,7 +163,7 @@
         "black"
       ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=Galaxy%20S4%20Active&idManufacturer=2795&flPackageOnly=0&idCategory=8057&lbCategory=ANDROID%20OS%20MOBILE%20PHONE",
-      "image": "images/galaxy-series/galaxy-s4-active.png",
+      "image": "images/galaxy-collection/galaxy-s4-active.png",
       "feature_ids": [
         "wifi",
         "3g",
@@ -174,7 +174,7 @@
       "id": "s4_zoom",
       "title": {
         "text": "Samsung Galaxy S4 Zoom",
-        "image": "images/galaxy-series/galaxy-s4-zoom-logo.png"
+        "image": "images/titles/galaxy-s4-zoom-logo.png"
       },
       "tagline": "Talk and zoom",
       "attributes": [
@@ -188,7 +188,7 @@
         "white"
       ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=Galaxy%20S4%20Zoom&idManufacturer=2795&flPackageOnly=0&idCategory=8057&lbCategory=ANDROID%20OS%20MOBILE%20PHONE",
-      "image": "images/galaxy-series/galaxy-s4-zoom.png",
+      "image": "images/galaxy-collection/galaxy-s4-zoom.png",
       "feature_ids": [
         "wifi",
         "3g",
@@ -199,7 +199,7 @@
       "id": "mega",
       "title": {
         "text": "Samsung Galaxy Mega",
-        "image": "images/galaxy-series/galaxy-mega-logo.png"
+        "image": "images/titles/galaxy-mega-logo.png"
       },
       "tagline": "It's a bigger mobile life",
       "attributes": [
@@ -213,7 +213,7 @@
         "white"
       ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=mega&idManufacturer=2795&flPackageOnly=0&idCategory=8057",
-      "image": "images/galaxy-series/galaxy-mega.png",
+      "image": "images/galaxy-collection/galaxy-mega.png",
       "feature_ids": [
         "wifi",
         "3g",

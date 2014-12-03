@@ -2,12 +2,12 @@
   "lead": {
     "title": {
       "text": "Samsung Galaxy Gear",
-      "image": "images/galaxy-gear/galaxy-gear-logo.png"
+      "image": "images/titles/galaxy-gear-logo.png"
     },
     "tagline": "The time has come",
     "body": "<p>The revolutionary Galaxy Gears connect with your Note 3, Galaxy S5, Galaxy S4, Galaxy S4 Mini or Galaxy S3 seamlessly. When you're wearing it you can make calls, check messages, take photos and more.</p>",
     "image": {
-      "src": "images/galaxy-gear/galaxyGears.png",
+      "src": "images/galaxy-gear/galaxy-gear-range.png",
       "alt": "Image of the Samsung Galaxy Gear range"
     }
   },
@@ -16,7 +16,7 @@
       "id": "gear_2",
       "title": {
         "text": "Samsung Galaxy Gear 2",
-        "image": "images/galaxy-gear/galaxy-gear2-logo.png"
+        "image": "images/titles/galaxy-gear-2-logo.png"
       },
       "tagline": "Smartly chic",
       "attributes": [
@@ -34,14 +34,14 @@
         "brown"
       ],
       "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?mscssid=&nmOrderBy=1&ttKeyword=R3800&idManufacturer=2795&flPackageOnly=0&idCategory=8040&lbCategory=OTHER%20MOBILE%20PHONE%20ACCESSORIES",
-      "image": "images/galaxy-gear/sgalaxy-gear2.png",
+      "image": "images/galaxy-gear/galaxy-gear-2.png",
       "feature_ids": []
     },
     {
       "id": "gear_fit",
       "title": {
         "text": "Samsung Galaxy Gear fit",
-        "image": "images/galaxy-gear/galaxy-gear-fit-logo.png"
+        "image": "images/titles/galaxy-gear-fit-logo.png"
       },
       "tagline": "Unique in design",
       "attributes": [
@@ -60,14 +60,14 @@
         "red"
       ],
       "link": "http://www.exertismicro-p.co.uk/products/OTHER-MOBILE-PHONE-ACCESSORIES/SAMSUNG/p2060315/SAMSUNG-Wearables-OTHER-MOBILE-PHONE-ACCESSORIES-SM-R3500ZKABTU.aspx?mscssid=",
-      "image": "images/galaxy-gear/sgalaxy-gear-fit.png",
+      "image": "images/galaxy-gear/galaxy-gear-fit.png",
       "feature_ids": []
     },
     {
       "id": "gear",
       "title": {
         "text": "Samsung Galaxy Gear",
-        "image": "images/galaxy-gear/galaxy-gear-logo.png"
+        "image": "images/titles/galaxy-gear-logo.png"
       },
       "tagline": "Calls are always within reach",
       "attributes": [

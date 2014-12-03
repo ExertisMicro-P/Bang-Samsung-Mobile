@@ -2,12 +2,12 @@
   "lead": {
     "title": {
       "text": "Samsung Galaxy Tab",
-      "image": "images/galaxy-tab/tab-logo.png"
+      "image": "images/titles/galaxy-tab-logo.png"
     },
     "tagline": "Experience more with a Samsung Galaxy tablet",
     "body": null,
     "image": {
-      "src": "images/galaxy-tab/tab-top-image.png",
+      "src": "images/galaxy-tab/galaxy-tab-range.png",
       "alt": "Image of the Samsung Galaxy Tab range"
     }
   },
@@ -16,7 +16,7 @@
       "id": "tab_3_12-2",
       "title": {
         "text": "Samsung Galaxy Tab 3 12.2",
-        "image": "images/galaxy-tab/galaxy-tab-pro-12-2-logo.png"
+        "image": "images/titles/galaxy-tab-pro-12-2-logo.png"
       },
       "tagline": "The ultimate tablet viewing experience",
       "attributes": [
@@ -40,7 +40,7 @@
       "id": "tab_3_10-1",
       "title": {
         "text": "Samsung Galaxy Tab 3 10.1",
-        "image": "images/galaxy-tab/galaxy-tab-pro-10-1-logo.png"
+        "image": "images/titles/galaxy-tab-pro-10-1-logo.png"
       },
       "tagline": "Vibrant viewing. Powerful productivity.",
       "attributes": [

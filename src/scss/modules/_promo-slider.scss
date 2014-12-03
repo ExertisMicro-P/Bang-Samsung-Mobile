@@ -23,15 +23,15 @@
     }
 
     .bx-loading {
-      background-image: url('/samsung-mobile/images/bx_loader.gif');
+      background-image: url('/samsung-mobile/images/slider/bx_loader.gif');
     }
     .bx-prev {
       display: none;
-      // background-image: url('/samsung-mobile/images/controls.png');
+      // background-image: url('/samsung-mobile/images/slider/controls.png');
     }
     .bx-next {
       display: none;
-      // background-image: url('/samsung-mobile/images/controls.png');
+      // background-image: url('/samsung-mobile/images/slider/controls.png');
     }
 
     .bx-pager {
@@ -41,7 +41,7 @@
       a {
         width: 30px;
         height: 30px;
-        background: url('/samsung-mobile/images/buttons.png') no-repeat -40px 0 !important;
+        background: url('/samsung-mobile/images/slider/pager-buttons.png') no-repeat -40px 0 !important;
         &:hover,
         &.active { 
           background-position: -7px 0 !important;
