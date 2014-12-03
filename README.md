@@ -5,8 +5,8 @@ This project is based on the [Bang-Conect](https://github.com/ExertisMicro-P/Ban
 Bang's test site: [http://samsung-mobile.microp.bang-on.net/?project=samsung-mobile](http://samsung-mobile.microp.bang-on.net/?project=samsung-mobile)
 
 ## TODO
-* Standardise the naming of images
-* Clear out unused images
+* Better workflow for `src/js`. Ideally we want to concatenate and minify for `grunt build`, but use full fat (un-minified) versions when developing with `grunt watch` for easier debugging.
+* Add linting task to grunt for our custom scripts in `src/js`
 
 ## Getting started
 
