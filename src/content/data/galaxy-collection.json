@@ -32,7 +32,7 @@
         "black"
       ],
       "link": null,
-      "image": null,
+      "image": "images/galaxy-collection/galaxy-s5-mini.png",
       "feature_ids": [
       ]
     },
@@ -57,8 +57,8 @@
         "grey",
         "white"
       ],
-      "link": "",
-      "image": null,
+      "link": null,
+      "image": "images/galaxy-collection/galaxy-alpha.png",
       "feature_ids": [
       ]
     },

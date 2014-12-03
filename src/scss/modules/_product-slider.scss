@@ -55,8 +55,15 @@
   }
 }
 
+.product-slide__link {
+  display: table-cell;
+  width: 80px;
+  height: 80px;
+  vertical-align: middle;
+}
+
 .product-slide__image {
   width: auto;
-  height: 80px;
+  max-height: 80px;
   margin: 0 auto;
 }

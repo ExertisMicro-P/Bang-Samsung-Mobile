@@ -14,7 +14,7 @@
   "categories": [
     {
       "name": "Note 4",
-      "image": null,
+      "image": "images/galaxy-note/galaxy-note-4.png",
       "products": [
         {
           "id": "note_4s_view_wallet_cover",
@@ -40,7 +40,7 @@
     },
     {
       "name": "S5 MINI",
-      "image": null,
+      "image": "images/galaxy-collection/galaxy-s5-mini.png",
       "products": [
         {
           "id": "s5_mini_flip_cover",
@@ -80,13 +80,13 @@
             "black"
           ],
           "link": null,
-          "image": null
+          "image": "images/galaxy-accessories/galaxy-s5-mini-s-view-cover.png"
         }
       ]
     },
     {
       "name": "ALPHA",
-      "image": null,
+      "image": "images/galaxy-collection/galaxy-alpha.png",
       "products": [
         {
           "id": "alpha_flip_cover",
@@ -302,7 +302,7 @@
     },
     {
       "name": "Tab 3",
-      "image": "images/galaxy-tab/galaxy-tab-pro-10-1.png",
+      "image": "images/galaxy-tab/galaxy-tab-pro-10_1.png",
       "products": [
         {
           "id": "tab3_book_cover",
@@ -352,7 +352,7 @@
     },
     {
       "name": "Tab 4",
-      "image": null,
+      "image": "images/galaxy-tab/galaxy-tab-4-10_1.png",
       "products": [
         {
           "id": "tab4_screen_protector",
@@ -394,7 +394,7 @@
     },
     {
       "name": "Tab S",
-      "image": null,
+      "image": "images/galaxy-tab/galaxy-tab-s-10_5.png",
       "products": [
         {
           "id": "tab_s_book_cover",
@@ -433,13 +433,13 @@
             "black"
           ],
           "link": null,
-          "image": "images/galaxy-accessories/galaxy-tab-s-slim-cover.png"
+          "image": "images/galaxy-accessories/galaxy-tab-s-10_5-slim-cover.png"
         }
       ]
     },
     {
       "name": "Note & Tab Pro",
-      "image": "images/galaxy-note/galaxy-note-10-1-2014.png",
+      "image": "images/galaxy-note/galaxy-note-10_1-2014.png",
       "products": [
         {
           "id": "note_and_tab_12-2_book_cover",
@@ -459,7 +459,7 @@
             "white"
           ],
           "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=12.2%20book%20cover&flPackageOnly=0&idCategory=4649",
-          "image": "images/galaxy-accessories/galaxy-note-and-tab-12-book-cover.png"
+          "image": "images/galaxy-accessories/galaxy-note-and-tab-12_2-book-cover.png"
         },
         {
           "id": "note_10-1_book_cover",
@@ -481,7 +481,7 @@
             "dark-red"
           ],
           "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=galaxy%20tab%203%2010.1%20book%20cover&flPackageOnly=0&idCategory=4649",
-          "image": "images/galaxy-accessories/galaxy-note-10-book-cover.png"
+          "image": "images/galaxy-accessories/galaxy-note-10_1-book-cover.png"
         }
       ]
     },
