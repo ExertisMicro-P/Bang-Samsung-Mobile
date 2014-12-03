@@ -39,13 +39,13 @@
       ]
     },
     {
-      "name": "S5 mini",
+      "name": "S5 MINI",
       "image": null,
       "products": [
         {
           "id": "s5_mini_flip_cover",
           "title": {
-            "text": "Galaxy S5 mini Flip Cover",
+            "text": "Galaxy S5 MINI Flip Cover",
             "image": null
           },
           "tagline": "Dimpled or Smooth Finish?",
@@ -65,7 +65,7 @@
         {
           "id": "s5_mini_s_view_cover",
           "title": {
-            "text": "Galaxy S5 mini S View Cover",
+            "text": "Galaxy S5 MINI S View Cover",
             "image": null
           },
           "tagline": "The Window of Opportunity",
@@ -230,13 +230,13 @@
       ]
     },
     {
-      "name": "S4 mini",
+      "name": "S4 MINI",
       "image": "images/galaxy-collection/galaxy-s4-mini.png",
       "products": [
         {
           "id": "s4_mini_flip_case",
           "title": {
-            "text": "Galaxy S4 Mini Flip Cover",
+            "text": "Galaxy S4 MINI Flip Cover",
             "image": null
           },
           "tagline": "Custom Design",
@@ -244,7 +244,7 @@
             "Prevent damage to the screen by closing the cover",
             "Express yourself with a range of attractive colours",
             "Keep your phone thin by simply replacing the battery cover",
-            "Use an official Samsung accessory for your Galaxy S4 Mini"
+            "Use an official Samsung accessory for your Galaxy S4 MINI"
           ],
           "colour_options": [
             "black"
@@ -255,12 +255,12 @@
         {
           "id": "s4_mini_s_view_cover",
           "title": {
-            "text": "Galaxy S4 Mini S View Cover",
+            "text": "Galaxy S4 MINI S View Cover",
             "image": null
           },
           "tagline": "Better Protection and Greater Convenience",
           "attributes": [
-            "Trust in Samsung design developed specially for Galaxy S4 Mini",
+            "Trust in Samsung design developed specially for Galaxy S4 MINI",
             "Answer a call with the cover closed simply by swiping it",
             "See the time, missed calls and more with the case closed",
             "Just open the case and the screen comes on automatically"

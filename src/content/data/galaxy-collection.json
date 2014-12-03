@@ -15,7 +15,7 @@
     {
       "id": "s5_mini",
       "title": {
-        "text": "Samsung Galaxy S5 Mini",
+        "text": "Samsung Galaxy S5 MINI",
         "image": null
       },
       "tagline": "Compact Design",
@@ -39,7 +39,7 @@
     {
       "id": "alpha",
       "title": {
-        "text": "Samsung Galaxy Alpha",
+        "text": "Samsung Galaxy ALPHA",
         "image": null
       },
       "tagline": "Beautifully designed",
@@ -122,7 +122,7 @@
     {
       "id": "s4_mini",
       "title": {
-        "text": "Samsung Galaxy S4 Mini",
+        "text": "Samsung Galaxy S4 MINI",
         "image": "images/titles/galaxy-s4-mini-logo.png"
       },
       "tagline": "Compact and stylish, Big performance",
@@ -149,7 +149,7 @@
     {
       "id": "s4_active",
       "title": {
-        "text": "Samsung Galaxy S4 Active",
+        "text": "Samsung Galaxy S4 ACTIVE",
         "image": "images/titles/galaxy-s4-active-logo.png"
       },
       "tagline": "Freedom to live outside the boundaries",
@@ -173,7 +173,7 @@
     {
       "id": "s4_zoom",
       "title": {
-        "text": "Samsung Galaxy S4 Zoom",
+        "text": "Samsung Galaxy S4 ZOOM",
         "image": "images/titles/galaxy-s4-zoom-logo.png"
       },
       "tagline": "Talk and zoom",
@@ -198,7 +198,7 @@
     {
       "id": "mega",
       "title": {
-        "text": "Samsung Galaxy Mega",
+        "text": "Samsung Galaxy MEGA",
         "image": "images/titles/galaxy-mega-logo.png"
       },
       "tagline": "It's a bigger mobile life",
