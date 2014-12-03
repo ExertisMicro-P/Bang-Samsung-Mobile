@@ -7,7 +7,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1f1f1', endColorstr='#e9e9e9', GradientType=0); // IE 9 fallback
 }
 
-.page-lead__details {
+.page-lead__main {
   float: left;
   width: 330px;
   margin-left: 60px;
@@ -37,14 +37,14 @@
   }
 }
 
-.page-lead__image {
+.page-lead__aside {
   float: left;
   width: 480px;
   margin: 0 60px;
   text-align: center;
+}
 
-  img {
-    max-width: 100%;
-    height: auto;
-  }
+.page-lead__image {
+  max-width: 100%;
+  height: auto;
 }

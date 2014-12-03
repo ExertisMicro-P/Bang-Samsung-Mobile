@@ -56,21 +56,21 @@
   min-height: 400px;
 }
 
-.promo-slide__details {
+.promo-slide__main {
   float: left;
   width: 380px;
   margin: 80px 60px 0 60px;
 }
 
-.promo-slide__image {
+.promo-slide__aside {
   float: right;
   width: 430px;
   margin-right: 60px;
+}
 
-  img {
-    margin: 0 auto;
-    max-width: 100%;
-  }
+.promo-slide__image {
+  margin: 0 auto;
+  max-width: 100%;
 }
 
 .promo-slide__title {

@@ -4,15 +4,15 @@
     <ul class="promo-slider__slides js-promo-slider">
       {{#each home.slides}}
         <li class="promo-slide">
-          <div class="promo-slide__details">
+          <div class="promo-slide__main">
             <h2 class="promo-slide__title">{{title}}</h2>
             <div class="promo-slide__body">{{{body}}}</div>
             {{#if internal_link}}
               <a class="samsung-button" data-target-content="{{internal_link}}" href="#">Find out more</a>
             {{/if}}
           </div>
-          <div class="promo-slide__image">
-            <img src="{{image.src}}" alt="{{image.alt}}" />
+          <div class="promo-slide__aside">
+            <img class="promo-slide__image" src="{{image.src}}" alt="{{image.alt}}" />
           </div>
         </li>
       {{/each}}
