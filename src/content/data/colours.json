@@ -8,7 +8,7 @@
       "label": "Grey",
       "hexcode": "#a7a7a7"
     },
-    "darkgrey": {
+    "dark-grey": {
       "label": "Grey",
       "hexcode": "#504747"
     },
@@ -38,11 +38,11 @@
       "label": "Red",
       "hexcode": "#e7303e"
     },
-    "darkred": {
+    "dark-red": {
       "label": "Red",
       "hexcode": "#aa0201"
     },
-    "indianred": {
+    "indian-red": {
       "label": "Red",
       "hexcode": "#bf3e44"
     },
@@ -50,19 +50,19 @@
       "label": "Purple",
       "hexcode": "#7f3f98"
     },
-    "royalblue": {
+    "royal-blue": {
       "label": "Blue",
       "hexcode": "#0f5eb9"
     },
-    "midnightblue": {
+    "midnight-blue": {
       "label": "Blue",
       "hexcode": "#0d1b83"
     },
-    "darkslateblue": {
+    "dark-blue": {
       "label": "Blue",
       "hexcode": "#2d5090"
     },
-    "skyblue": {
+    "sky-blue": {
       "label": "Blue",
       "hexcode": "#7cb3ff"
     },
@@ -78,7 +78,7 @@
       "label": "Green",
       "hexcode": "#7abc0b"
     },
-    "olivegreen": {
+    "olive-green": {
       "label": "Green",
       "hexcode": "#5eb425"
     },
@@ -86,7 +86,7 @@
       "label": "Yellow",
       "hexcode": "#ffe900"
     },
-    "offyellow": {
+    "off-yellow": {
       "label": "Yellow",
       "hexcode": "#d5d226"
     },
@@ -94,7 +94,7 @@
       "label": "Orange",
       "hexcode": "#fe9800"
     },
-    "redorange": {
+    "red-orange": {
       "label": "Orange",
       "hexcode": "#f1461c"
     },
@@ -102,8 +102,8 @@
       "label": "Pink",
       "hexcode": "#c51d70"
     },
-    "lightpink": {
-      "label": "Lightpink",
+    "light-pink": {
+      "label": "Light pink",
       "hexcode": "#ffc8f4",
       "bordered": true
     }

@@ -56,7 +56,7 @@
             "Just open the cover and the screen comes on automatically"
           ],
           "colour_options": [
-            "darkgrey",
+            "dark-grey",
             "white"
           ],
           "link": null,
@@ -173,9 +173,9 @@
           "colour_options": [
             "black",
             "white",
-            "indianred",
+            "indian-red",
             "teal",
-            "lightpink"
+            "light-pink"
           ],
           "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=EF-CG900&flPackageOnly=0&idCategory=8051",
           "image": "images/galaxy-accessories/galaxy-s5-s-view-cover.png"
@@ -200,7 +200,7 @@
             "Keep your phone thin by simply replacing the battery cover"
           ],
           "colour_options": [
-            "midnightblue",
+            "midnight-blue",
             "orange"
           ],
           "link": null,
@@ -221,8 +221,8 @@
           ],
           "colour_options": [
             "pink",
-            "skyblue",
-            "olivegreen"
+            "sky-blue",
+            "olive-green"
           ],
           "link": null,
           "image": "images/galaxy-accessories/galaxy-s4-protective-cover.png"
@@ -322,7 +322,7 @@
               "variant_name": "10.1",
               "colour_options": [
                 "white",
-                "darkred",
+                "dark-red",
                 "brown",
                 "black"
               ]
@@ -331,17 +331,17 @@
               "variant_name": "8.0",
               "colour_options": [
                 "white",
-                "darkred",
+                "dark-red",
                 "brown",
-                "royalblue",
+                "royal-blue",
                 "black"
               ]
             },
             {
               "variant_name": "7.0",
               "colour_options": [
-                "olivegreen",
-                "darkred"
+                "olive-green",
+                "dark-red"
               ]
             }
           ],
@@ -477,8 +477,8 @@
             "black",
             "white",
             "brown",
-            "royalblue",
-            "darkred"
+            "royal-blue",
+            "dark-red"
           ],
           "link": "http://www.exertismicro-p.co.uk/catalogue/catProductList.asp?nmOrderBy=1&ttKeyword=galaxy%20tab%203%2010.1%20book%20cover&flPackageOnly=0&idCategory=4649",
           "image": "images/galaxy-accessories/galaxy-note-10-book-cover.png"
