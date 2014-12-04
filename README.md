@@ -5,7 +5,7 @@ This project is based on the [Bang-Conect](https://github.com/ExertisMicro-P/Ban
 Bang's test site: [http://samsung-mobile.microp.bang-on.net/?project=samsung-mobile](http://samsung-mobile.microp.bang-on.net/?project=samsung-mobile)
 
 ## TODO
-* Better workflow for `src/js`. Ideally we want to concatenate and minify for `grunt build`, but use full fat (un-minified) versions when developing with `grunt watch` for easier debugging.
+* Better workflow for `src/js`. Ideally we want to concatenate 3rd party plugins and our custom scripts on `grunt build` or `grunt watch`. 3rd party plugins can be minified, our custom scripts should be left un-minified 
 * Add linting task to grunt for our custom scripts in `src/js`
 
 ## Getting started
