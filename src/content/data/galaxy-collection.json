@@ -16,7 +16,7 @@
       "id": "s5_mini",
       "title": {
         "text": "Samsung Galaxy S5 MINI",
-        "image": null
+        "image": "images/titles/galaxy-s5-mini-logo.png"
       },
       "tagline": "Compact Design",
       "attributes": [
@@ -40,7 +40,7 @@
       "id": "alpha",
       "title": {
         "text": "Samsung Galaxy ALPHA",
-        "image": null
+        "image": "images/titles/galaxy-alpha-logo.png"
       },
       "tagline": "Beautifully designed",
       "attributes": [

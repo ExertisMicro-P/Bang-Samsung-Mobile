@@ -63,7 +63,7 @@
       "id": "tab_4_7-0",
       "title": {
         "text": "Samsung Galaxy Tab 4 7.0",
-        "image": null
+        "image": "images/titles/galaxy-tab-4-7.0-logo.png"
       },
       "tagline": "Sleek and portable",
       "attributes": [
@@ -85,7 +85,7 @@
       "id": "tab_4_8-0",
       "title": {
         "text": "Samsung Galaxy Tab 4 8.0",
-        "image": null
+        "image": "images/titles/galaxy-tab-4-8.0-logo.png"
       },
       "tagline": "Something for Everyone",
       "attributes": [
@@ -107,7 +107,7 @@
       "id": "tab_4_10-1",
       "title": {
         "text": "Samsung Galaxy Tab 4 10.1",
-        "image": null
+        "image": "images/titles/galaxy-tab-4-10-1-logo.png"
       },
       "tagline": "Always Entertaining",
       "attributes": [
@@ -129,7 +129,7 @@
       "id": "tab_S_8-4",
       "title": {
         "text": "Samsung Galaxy Tab S 8.4",
-        "image": null
+        "image": "images/titles/galaxy-tab-s-8.4-logo.png"
       },
       "tagline": "Detail-Oriented Display",
       "attributes": [
@@ -151,7 +151,7 @@
       "id": "tab_S_10-5",
       "title": {
         "text": "Samsung Galaxy Tab S 10.5",
-        "image": null
+        "image": "images/titles/galaxy-tab-s-10.5-logo.png"
       },
       "tagline": "Experience wide colour",
       "attributes": [
