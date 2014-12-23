@@ -4,7 +4,7 @@
  */
 $(document).ready(function() {
     $(window).scroll(function() {
-        if ($(this).scrollTop() > 680) {
+        if ($(this).scrollTop() > 630) {
             $(".scrollToTop").fadeIn();
             $(".product-slider").css("position", "fixed");
         } else {
