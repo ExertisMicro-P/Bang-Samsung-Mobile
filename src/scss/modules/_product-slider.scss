@@ -6,6 +6,10 @@
   border-top: 6px solid $samsung-blue;
   border-bottom: 6px solid $samsung-blue;
   width: 100%;
+  top: 0px;
+  left: 0px;
+  background-color: white;
+  z-index: 99999;
 
   @extend .clearfix;
 

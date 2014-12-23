@@ -4,10 +4,12 @@
  */
 $(document).ready(function() {
     $(window).scroll(function() {
-        if ($(this).scrollTop() > 1e3) {
+        if ($(this).scrollTop() > 680) {
             $(".scrollToTop").fadeIn();
+            $(".product-slider").css("position", "fixed");
         } else {
             $(".scrollToTop").fadeOut();
+            $(".product-slider").css("position", "relative");
         }
     });
     $(".scrollToTop").click(function() {

@@ -17,7 +17,7 @@
 
   {{!-- use shorthand #each loop, as we can't nest #each --}}
   {{#galaxy-accessories.categories}}
-    <span id="{{slugify name}}"></span>
+    <span class="anchor" id="{{slugify name}}"></span>
     {{#each products}}
       {{partial 'product' this}}
     {{/each}}
