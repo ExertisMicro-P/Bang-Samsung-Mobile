@@ -4,7 +4,7 @@
  */
 $(document).ready(function() {
     $(window).scroll(function() {
-        if ($(this).scrollTop() > 100) {
+        if ($(this).scrollTop() > 1e3) {
             $(".scrollToTop").fadeIn();
         } else {
             $(".scrollToTop").fadeOut();
