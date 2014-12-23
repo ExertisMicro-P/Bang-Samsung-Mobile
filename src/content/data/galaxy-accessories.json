@@ -132,7 +132,7 @@
     },
     {
       "name": "S5",
-      "image": "images/galaxy-collection/galaxy-s5.png",
+      "image": "images/galaxy-collection/s5.png",
       "products": [
         {
           "id": "s5_flip_wallet",
@@ -184,7 +184,7 @@
     },
     {
       "name": "S4",
-      "image": "images/galaxy-collection/galaxy-s4.png",
+      "image": "images/galaxy-collection/s4.png",
       "products": [
         {
           "id": "s4_flip_cover",
@@ -231,7 +231,7 @@
     },
     {
       "name": "S4 MINI",
-      "image": "images/galaxy-collection/galaxy-s4-mini.png",
+      "image": "images/galaxy-collection/s4-mini.png",
       "products": [
         {
           "id": "s4_mini_flip_case",
@@ -302,7 +302,7 @@
     },
     {
       "name": "Tab 3",
-      "image": "images/galaxy-tab/galaxy-tab-pro-10_1.png",
+      "image": "images/galaxy-tab/galaxy-tab-pro.png",
       "products": [
         {
           "id": "tab3_book_cover",
@@ -352,7 +352,7 @@
     },
     {
       "name": "Tab 4",
-      "image": "images/galaxy-tab/galaxy-tab-4-10_1.png",
+      "image": "images/galaxy-tab/galaxy-tab-4.png",
       "products": [
         {
           "id": "tab4_screen_protector",
@@ -394,7 +394,7 @@
     },
     {
       "name": "Tab S",
-      "image": "images/galaxy-tab/galaxy-tab-s-10_5.png",
+      "image": "images/galaxy-tab/galaxy-tab-s.png",
       "products": [
         {
           "id": "tab_s_book_cover",
@@ -439,7 +439,7 @@
     },
     {
       "name": "Note & Tab Pro",
-      "image": "images/galaxy-note/galaxy-note-10_1-2014.png",
+      "image": "images/galaxy-note/galaxy-note.png",
       "products": [
         {
           "id": "note_and_tab_12-2_book_cover",
