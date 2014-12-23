@@ -13,6 +13,126 @@
   },
   "products": [
     {
+      "id": "tab_4_7-0",
+      "title": {
+        "text": "Samsung Galaxy Tab 4 7.0",
+        "image": "images/titles/galaxy-tab-4-7.0-logo.png"
+      },
+      "tagline": "Sleek and portable",
+      "attributes": [
+        "Enjoy ultraportable design that’s comfortable to hold and use",
+        "Make the most of enhanced multimedia, multitasking and more",
+        "Give everyone in the family their own personalised user account",
+        "Connect with other devices to share, play games and view photos"
+      ],
+      "colour_options": [
+        "white",
+        "black"
+      ],
+      "link": null,
+      "image": "images/galaxy-tab/galaxy-tab-4-7_0.png",
+      "feature_ids": [
+        "wifi",
+        "4g_option"
+      ]
+    },
+        {
+      "id": "tab_4_8-0",
+      "title": {
+        "text": "Samsung Galaxy Tab 4 8.0",
+        "image": "images/titles/galaxy-tab-4-8.0-logo.png"
+      },
+      "tagline": "Something for Everyone",
+      "attributes": [
+        "The new Multi User Mode, brilliant display and lightweight design make this tablet easy to use and difficult to put down.",
+        "Watch your movies come to life and take your games to the next level on the 8.0\" display.",
+        "Everyone in the family can have a personalised tablet experience with their own music, games, apps, photos and more",
+        "Take more of your music, photos, movies and games with you using a microSD&trade; card"
+      ],
+      "colour_options": [
+        "white",
+        "black"
+      ],
+      "link": null,
+      "image": "images/galaxy-tab/galaxy-tab-4-8_0.png",
+      "feature_ids": [
+        "wifi",
+        "4g_option"
+      ]
+    },
+    {
+      "id": "tab_4_10-1",
+      "title": {
+        "text": "Samsung Galaxy Tab 4 10.1",
+        "image": "images/titles/galaxy-tab-4-10-1-logo.png"
+      },
+      "tagline": "Always Entertaining",
+      "attributes": [
+        "Watch your movies come to life and take your games to the next level on the 10.1\" display",
+        "Access Kids mode, a colourful and fun mode designed to be easy-to-use and even easier to control.",
+        "A lightweight build with a fresh design adds a touch of elegance",
+        "Take more of your music, photos, movies and games with you using a microSD&trade; card"
+      ],
+      "colour_options": [
+        "white",
+        "black"
+      ],
+      "link": null,
+      "image": "images/galaxy-tab/galaxy-tab-4-10_1.png",
+      "feature_ids": [
+        "wifi",
+        "4g_option"
+      ]
+    },
+    {
+      "id": "tab_S_8-4",
+      "title": {
+        "text": "Samsung Galaxy Tab S 8.4",
+        "image": "images/titles/galaxy-tab-s-8.4-logo.png"
+      },
+      "tagline": "Detail-Oriented Display",
+      "attributes": [
+        "See your movies and games pop with vivid colours, dark shadows and stunning contrast on the 8.4\" display.",
+        "An ultra-thin build with a comfortable design makes this tablet difficult to put down.",
+        "Keep your photos, videos, and personal files secure with just the swipe of your finger.",
+        "Do two things at once with Multi-window, like watch a music video and look up the lyrics"
+      ],
+      "colour_options": [
+        "white",
+        "brown"
+      ],
+      "link": null,
+      "image": "images/galaxy-tab/galaxy-tab-s-8_4.png",
+      "feature_ids": [
+        "wifi",
+        "4g_option"
+      ]
+    },
+    {
+      "id": "tab_S_10-5",
+      "title": {
+        "text": "Samsung Galaxy Tab S 10.5",
+        "image": "images/titles/galaxy-tab-s-10.5-logo.png"
+      },
+      "tagline": "Experience wide colour",
+      "attributes": [
+        "Experience stunningly vivid and true-to-life Super AMOLED picture quality",
+        "See more and do more with a range of advanced multitasking features",
+        "Control your Galaxy S5 screen as well as making and receiving calls",
+        "Enjoy slim, light and energy-efficient design with a fingerprint scanner"
+      ],
+      "colour_options": [
+        "white",
+        "tan"
+      ],
+      "link": null,
+      "image": "images/galaxy-tab/galaxy-tab-s-10_5.png",
+      "feature_ids": [
+        "wifi",
+        "4g_option"
+      ]
+    },
+    {
       "id": "tab_3_12-2",
       "title": {
         "text": "Samsung Galaxy Tab 3 12.2",
@@ -57,116 +177,6 @@
       "image": "images/galaxy-tab/galaxy-tab-pro-10_1.png",
       "feature_ids": [
         "wifi"
-      ]
-    },
-    {
-      "id": "tab_4_7-0",
-      "title": {
-        "text": "Samsung Galaxy Tab 4 7.0",
-        "image": "images/titles/galaxy-tab-4-7.0-logo.png"
-      },
-      "tagline": "Sleek and portable",
-      "attributes": [
-        "Enjoy ultraportable design that’s comfortable to hold and use",
-        "Make the most of enhanced multimedia, multitasking and more",
-        "Give everyone in the family their own personalised user account",
-        "Connect with other devices to share, play games and view photos"
-      ],
-      "colour_options": [
-        "white",
-        "black"
-      ],
-      "link": null,
-      "image": "images/galaxy-tab/galaxy-tab-4-7_0.png",
-      "feature_ids": [
-      ]
-    },
-    {
-      "id": "tab_4_8-0",
-      "title": {
-        "text": "Samsung Galaxy Tab 4 8.0",
-        "image": "images/titles/galaxy-tab-4-8.0-logo.png"
-      },
-      "tagline": "Something for Everyone",
-      "attributes": [
-        "The new Multi User Mode, brilliant display and lightweight design make this tablet easy to use and difficult to put down.",
-        "Watch your movies come to life and take your games to the next level on the 8.0\" display.",
-        "Everyone in the family can have a personalised tablet experience with their own music, games, apps, photos and more",
-        "Take more of your music, photos, movies and games with you using a microSD&trade; card"
-      ],
-      "colour_options": [
-        "white",
-        "black"
-      ],
-      "link": null,
-      "image": "images/galaxy-tab/galaxy-tab-4-8_0.png",
-      "feature_ids": [
-      ]
-    },
-    {
-      "id": "tab_4_10-1",
-      "title": {
-        "text": "Samsung Galaxy Tab 4 10.1",
-        "image": "images/titles/galaxy-tab-4-10-1-logo.png"
-      },
-      "tagline": "Always Entertaining",
-      "attributes": [
-        "Watch your movies come to life and take your games to the next level on the 10.1\" display",
-        "Access Kids mode, a colourful and fun mode designed to be easy-to-use and even easier to control.",
-        "A lightweight build with a fresh design adds a touch of elegance",
-        "Take more of your music, photos, movies and games with you using a microSD&trade; card"
-      ],
-      "colour_options": [
-        "white",
-        "black"
-      ],
-      "link": null,
-      "image": "images/galaxy-tab/galaxy-tab-4-10_1.png",
-      "feature_ids": [
-      ]
-    },
-    {
-      "id": "tab_S_8-4",
-      "title": {
-        "text": "Samsung Galaxy Tab S 8.4",
-        "image": "images/titles/galaxy-tab-s-8.4-logo.png"
-      },
-      "tagline": "Detail-Oriented Display",
-      "attributes": [
-        "See your movies and games pop with vivid colours, dark shadows and stunning contrast on the 8.4\" display.",
-        "An ultra-thin build with a comfortable design makes this tablet difficult to put down.",
-        "Keep your photos, videos, and personal files secure with just the swipe of your finger.",
-        "Do two things at once with Multi-window, like watch a music video and look up the lyrics"
-      ],
-      "colour_options": [
-        "white",
-        "brown"
-      ],
-      "link": null,
-      "image": "images/galaxy-tab/galaxy-tab-s-8_4.png",
-      "feature_ids": [
-      ]
-    },
-    {
-      "id": "tab_S_10-5",
-      "title": {
-        "text": "Samsung Galaxy Tab S 10.5",
-        "image": "images/titles/galaxy-tab-s-10.5-logo.png"
-      },
-      "tagline": "Experience wide colour",
-      "attributes": [
-        "Experience stunningly vivid and true-to-life Super AMOLED picture quality",
-        "See more and do more with a range of advanced multitasking features",
-        "Control your Galaxy S5 screen as well as making and receiving calls",
-        "Enjoy slim, light and energy-efficient design with a fingerprint scanner"
-      ],
-      "colour_options": [
-        "white",
-        "tan"
-      ],
-      "link": null,
-      "image": "images/galaxy-tab/galaxy-tab-s-10_5.png",
-      "feature_ids": [
       ]
     }
   ]

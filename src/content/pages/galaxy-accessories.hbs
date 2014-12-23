@@ -16,19 +16,25 @@
   </div>
 
   {{!-- use shorthand #each loop, as we can't nest #each --}}
-  {{#galaxy-accessories.categories}}  
+  {{#galaxy-accessories.categories}}
     <span id="{{slugify name}}"></span>
     {{#each products}}
       {{partial 'product' this}}
     {{/each}}
   {{/galaxy-accessories.categories}}
-
+  <a href="#" class="scrollToTop">Scroll To Top</a>
 </div>
 
 <!-- scripts -->
 <script type="text/javascript">
 
 function initPage() {
+
+
+
+  // performance optimised fade in for products as user scrolls
+  head.load(prefixURL + "js/scrolling-top.jquery.js", function() {});
+
   // performance optimised fade in for products as user scrolls
   head.load(prefixURL + "js/scrolling-reveal.jquery.js", function() {
     $('.js-scrolling-reveal').scrollingReveal();

@@ -13,8 +13,20 @@
   color: #fff;
   border-radius: 5px;
   // box-shadow: 0px 0px 6px 4px #d1d1d1;
-  
+
   &:hover {
     background-color: #666;
   }
+}
+
+
+.scrollToTop {
+  padding: 10px 10px;
+  background: #0076d5;
+  color: #fff;
+  position: fixed;
+  bottom: 0;
+  right: 50%;
+  display: none;
+  text-decoration: none;
 }

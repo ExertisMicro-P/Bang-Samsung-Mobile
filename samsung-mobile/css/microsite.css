@@ -806,6 +806,16 @@ body {
   .samsung-button:hover {
     background-color: #666; }
 
+.scrollToTop {
+  padding: 10px 10px;
+  background: #0076d5;
+  color: #fff;
+  position: fixed;
+  bottom: 0;
+  right: 50%;
+  display: none;
+  text-decoration: none; }
+
 .page-lead {
   float: none;
   min-height: 400px;

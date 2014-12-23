@@ -5,7 +5,7 @@
       "image": "images/titles/galaxy-collection-logo.png"
     },
     "tagline": "Introducing the Samsung Galaxy Collection",
-    "body": "<h4>A smartphone for whoever you are</h4>",
+    "body": "",
     "image": {
       "src": "images/galaxy-collection/galaxy-collection-range.png",
       "alt": "Image of the Samsung Galaxy Collection"
@@ -34,6 +34,9 @@
       "link": null,
       "image": "images/galaxy-collection/galaxy-s5-mini.png",
       "feature_ids": [
+        "wifi",
+        "3g",
+        "4g_ready"
       ]
     },
     {
@@ -60,6 +63,9 @@
       "link": null,
       "image": "images/galaxy-collection/galaxy-alpha.png",
       "feature_ids": [
+        "wifi",
+        "3g",
+        "4g_ready"
       ]
     },
     {
