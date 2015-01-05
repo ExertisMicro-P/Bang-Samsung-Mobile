@@ -275,7 +275,7 @@
     },
     {
       "name": "Gear 2/Neo",
-      "image": "images/galaxy-gear/galaxy-gear-2.png",
+      "image": "images/galaxy-gear/galaxy-gear-thumb.png",
       "products": [
         {
           "id": "gear2_neo_basic_strap",
