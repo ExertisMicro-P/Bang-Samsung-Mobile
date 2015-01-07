@@ -637,14 +637,6 @@ body {
 .container_25 .pull_24 {
   left: -960px; }
 
-.clear {
-  clear: both;
-  display: block;
-  overflow: hidden;
-  visibility: hidden;
-  width: 0;
-  height: 0; }
-
 .clearfix:before, .header:before, .product:before, .product-slider:before,
 .clearfix:after,
 .header:after,
